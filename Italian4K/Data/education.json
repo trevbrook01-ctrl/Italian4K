@@ -1,0 +1,166 @@
+[
+  {
+    "target": "la scuola",
+    "source": "school"
+  },
+  {
+    "target": "lo scuolabus",
+    "source": "school bus"
+  },
+  {
+    "target": "l’insegnante",
+    "source": "teacher"
+  },
+  {
+    "target": "la studentessa",
+    "source": "student"
+  },
+  {
+    "target": "lo studente",
+    "source": "student"
+  },
+  {
+    "target": "la classe",
+    "source": "class"
+  },
+  {
+    "target": "l’aula",
+    "source": "classroom"
+  },
+  {
+    "target": "la lavagna",
+    "source": "blackboard"
+  },
+  {
+    "target": "la cattedra",
+    "source": "teacher’s desk"
+  },
+  {
+    "target": "il banco",
+    "source": "desk"
+  },
+  {
+    "target": "la lezione",
+    "source": "lesson"
+  },
+  {
+    "target": "la lettura",
+    "source": "reading"
+  },
+  {
+    "target": "la scrittura",
+    "source": "writing"
+  },
+  {
+    "target": "la matematica",
+    "source": "mathematics"
+  },
+  {
+    "target": "l’alfabeto",
+    "source": "alphabet"
+  },
+  {
+    "target": "i compiti",
+    "source": "homework"
+  },
+  {
+    "target": "gli appunti",
+    "source": "notes"
+  },
+  {
+    "target": "l’esame",
+    "source": "exam"
+  },
+  {
+    "target": "la pagella",
+    "source": "school report"
+  },
+  {
+    "target": "insegnare",
+    "source": "to teach"
+  },
+  {
+    "target": "scrivere",
+    "source": "to write"
+  },
+  {
+    "target": "leggere",
+    "source": "to read"
+  },
+  {
+    "target": "studiare",
+    "source": "to study"
+  },
+  {
+    "target": "lo zaino",
+    "source": "backpack"
+  },
+  {
+    "target": "l’astuccio",
+    "source": "pencil case"
+  },
+  {
+    "target": "il quaderno",
+    "source": "notebook"
+  },
+  {
+    "target": "il foglio di carta",
+    "source": "sheet of paper"
+  },
+  {
+    "target": "il libro",
+    "source": "book"
+  },
+  {
+    "target": "la penna",
+    "source": "pen"
+  },
+  {
+    "target": "la matita",
+    "source": "pencil"
+  },
+  {
+    "target": "il righello",
+    "source": "ruler"
+  },
+  {
+    "target": "la gomma",
+    "source": "rubber"
+  },
+  {
+    "target": "il temperamatita",
+    "source": "pencil sharpener"
+  },
+  {
+    "target": "il compasso",
+    "source": "compass"
+  },
+  {
+    "target": "la calcolatrice",
+    "source": "calculator"
+  },
+  {
+    "target": "le forbici",
+    "source": "scissors"
+  },
+  {
+    "target": "l’università",
+    "source": "university"
+  },
+  {
+    "target": "il professore / la professoressa",
+    "source": "teacher / professor"
+  },
+  {
+    "target": "la biblioteca",
+    "source": "library"
+  },
+  {
+    "target": "la materia",
+    "source": "subject"
+  },
+  {
+    "target": "l’intervallo",
+    "source": "break / recess"
+  }
+]

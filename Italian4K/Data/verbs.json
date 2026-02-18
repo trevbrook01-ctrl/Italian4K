@@ -1,0 +1,554 @@
+[
+  {
+    "target": "abitare",
+    "source": "to live, inhabit"
+  },
+  {
+    "target": "essere",
+    "source": "to be"
+  },
+  {
+    "target": "avere",
+    "source": "to have"
+  },
+  {
+    "target": "fare",
+    "source": "to do/make"
+  },
+  {
+    "target": "dire",
+    "source": "to say"
+  },
+  {
+    "target": "andare",
+    "source": "to go"
+  },
+  {
+    "target": "dare",
+    "source": "to give"
+  },
+  {
+    "target": "stare",
+    "source": "to stay/be"
+  },
+  {
+    "target": "venire",
+    "source": "to come"
+  },
+  {
+    "target": "potere",
+    "source": "can/may"
+  },
+  {
+    "target": "dovere",
+    "source": "must/have to"
+  },
+  {
+    "target": "volere",
+    "source": "to want"
+  },
+  {
+    "target": "aiutare",
+    "source": "to help"
+  },
+  {
+    "target": "amare",
+    "source": "to love"
+  },
+  {
+    "target": "arrivare",
+    "source": "to arrive"
+  },
+  {
+    "target": "ascoltare",
+    "source": "to listen to"
+  },
+  {
+    "target": "aspettare",
+    "source": "to wait for"
+  },
+  {
+    "target": "baciare",
+    "source": "to kiss"
+  },
+  {
+    "target": "bastare",
+    "source": "to suffice, be enough"
+  },
+  {
+    "target": "camminare",
+    "source": "to walk"
+  },
+  {
+    "target": "cantare",
+    "source": "to sing"
+  },
+  {
+    "target": "causare",
+    "source": "to cause"
+  },
+  {
+    "target": "cenare",
+    "source": "to have dinner"
+  },
+  {
+    "target": "chiamare",
+    "source": "to call"
+  },
+  {
+    "target": "cominciare",
+    "source": "to begin, start"
+  },
+  {
+    "target": "comprare",
+    "source": "to buy"
+  },
+  {
+    "target": "conservare",
+    "source": "to conserve, keep"
+  },
+  {
+    "target": "considerare",
+    "source": "to consider"
+  },
+  {
+    "target": "consigliare",
+    "source": "to advise"
+  },
+  {
+    "target": "costare",
+    "source": "to cost"
+  },
+  {
+    "target": "cucinare",
+    "source": "to cook"
+  },
+  {
+    "target": "curare",
+    "source": "to take care of, treat"
+  },
+  {
+    "target": "disegnare",
+    "source": "to draw"
+  },
+  {
+    "target": "diventare",
+    "source": "to become"
+  },
+  {
+    "target": "dubitare",
+    "source": "to doubt"
+  },
+  {
+    "target": "entrare",
+    "source": "to enter"
+  },
+  {
+    "target": "evitare",
+    "source": "to avoid"
+  },
+  {
+    "target": "fumare",
+    "source": "to smoke"
+  },
+  {
+    "target": "guardare",
+    "source": "to watch, look"
+  },
+  {
+    "target": "guidare",
+    "source": "to drive"
+  },
+  {
+    "target": "imparare",
+    "source": "to learn"
+  },
+  {
+    "target": "incontrare",
+    "source": "to meet, encounter"
+  },
+  {
+    "target": "indossare",
+    "source": "to wear, put on"
+  },
+  {
+    "target": "insegnare",
+    "source": "to teach"
+  },
+  {
+    "target": "lamentarsi",
+    "source": "to complain"
+  },
+  {
+    "target": "lasciare",
+    "source": "to leave"
+  },
+  {
+    "target": "lavare",
+    "source": "to wash"
+  },
+  {
+    "target": "lavorare",
+    "source": "to work"
+  },
+  {
+    "target": "mangiare",
+    "source": "to eat"
+  },
+  {
+    "target": "nuotare",
+    "source": "to swim"
+  },
+  {
+    "target": "ordinare",
+    "source": "to organize, sort, put in order"
+  },
+  {
+    "target": "parlare",
+    "source": "to speak"
+  },
+  {
+    "target": "passare",
+    "source": "to pass/go by"
+  },
+  {
+    "target": "pensare",
+    "source": "to think"
+  },
+  {
+    "target": "portare",
+    "source": "to take, bring"
+  },
+  {
+    "target": "pranzare",
+    "source": "to have lunch"
+  },
+  {
+    "target": "prenotare",
+    "source": "to book, reserve"
+  },
+  {
+    "target": "provare",
+    "source": "to try"
+  },
+  {
+    "target": "restare",
+    "source": "to stay, remain"
+  },
+  {
+    "target": "ricordare",
+    "source": "to remember"
+  },
+  {
+    "target": "salutare",
+    "source": "to greet, say hello"
+  },
+  {
+    "target": "salvare",
+    "source": "to save"
+  },
+  {
+    "target": "sbagliare",
+    "source": "to make a mistake, be wrong"
+  },
+  {
+    "target": "sperare",
+    "source": "to hope"
+  },
+  {
+    "target": "studiare",
+    "source": "to study"
+  },
+  {
+    "target": "tagliare",
+    "source": "to cut"
+  },
+  {
+    "target": "tornare",
+    "source": "to return, go back"
+  },
+  {
+    "target": "trovare",
+    "source": "to find"
+  },
+  {
+    "target": "viaggiare",
+    "source": "to travel"
+  },
+  {
+    "target": "visitare",
+    "source": "to visit"
+  },
+  {
+    "target": "accedere",
+    "source": "to access"
+  },
+  {
+    "target": "accendere",
+    "source": "to turn on"
+  },
+  {
+    "target": "apprendere",
+    "source": "to learn"
+  },
+  {
+    "target": "assumere",
+    "source": "to assume; to hire, employ"
+  },
+  {
+    "target": "attendere",
+    "source": "to wait for"
+  },
+  {
+    "target": "battere",
+    "source": "to beat"
+  },
+  {
+    "target": "chiedere",
+    "source": "to ask"
+  },
+  {
+    "target": "chiudere",
+    "source": "to close"
+  },
+  {
+    "target": "comprendere",
+    "source": "to understand, to include"
+  },
+  {
+    "target": "conoscere",
+    "source": "to know (people/places)"
+  },
+  {
+    "target": "correre",
+    "source": "to run, hurry"
+  },
+  {
+    "target": "credere",
+    "source": "to believe"
+  },
+  {
+    "target": "decedere",
+    "source": "to pass away"
+  },
+  {
+    "target": "decidere",
+    "source": "to decide"
+  },
+  {
+    "target": "descrivere",
+    "source": "to describe"
+  },
+  {
+    "target": "dibattere",
+    "source": "to debate"
+  },
+  {
+    "target": "discutere",
+    "source": "to discuss"
+  },
+  {
+    "target": "mettere",
+    "source": "to put"
+  },
+  {
+    "target": "perdere",
+    "source": "to lose"
+  },
+  {
+    "target": "precedere",
+    "source": "to precede"
+  },
+  {
+    "target": "premere",
+    "source": "to press"
+  },
+  {
+    "target": "prendere",
+    "source": "to take"
+  },
+  {
+    "target": "pretendere",
+    "source": "to claim"
+  },
+  {
+    "target": "promettere",
+    "source": "to promise"
+  },
+  {
+    "target": "rendere",
+    "source": "to give back, return"
+  },
+  {
+    "target": "ricevere",
+    "source": "to receive"
+  },
+  {
+    "target": "ridere",
+    "source": "to laugh"
+  },
+  {
+    "target": "ripetere",
+    "source": "to repeat"
+  },
+  {
+    "target": "rispondere",
+    "source": "to answer"
+  },
+  {
+    "target": "rompere",
+    "source": "to break"
+  },
+  {
+    "target": "scendere",
+    "source": "to descend, go down"
+  },
+  {
+    "target": "scrivere",
+    "source": "to write"
+  },
+  {
+    "target": "sorridere",
+    "source": "to smile"
+  },
+  {
+    "target": "spendere",
+    "source": "to spend"
+  },
+  {
+    "target": "temere",
+    "source": "to fear"
+  },
+  {
+    "target": "tessere",
+    "source": "to weave"
+  },
+  {
+    "target": "vedere",
+    "source": "to see"
+  },
+  {
+    "target": "vendere",
+    "source": "to sell"
+  },
+  {
+    "target": "vivere",
+    "source": "to live"
+  },
+  {
+    "target": "aborrire",
+    "source": "to abhor"
+  },
+  {
+    "target": "acconsentire",
+    "source": "to agree, consent"
+  },
+  {
+    "target": "applaudire",
+    "source": "to applaud, clap"
+  },
+  {
+    "target": "aprire",
+    "source": "to open"
+  },
+  {
+    "target": "assentire",
+    "source": "to assent"
+  },
+  {
+    "target": "assorbire",
+    "source": "to absorb"
+  },
+  {
+    "target": "avvertire",
+    "source": "to warn"
+  },
+  {
+    "target": "bollire",
+    "source": "to boil"
+  },
+  {
+    "target": "compartire",
+    "source": "to share, to divide"
+  },
+  {
+    "target": "convertire",
+    "source": "to convert"
+  },
+  {
+    "target": "coprire",
+    "source": "to cover"
+  },
+  {
+    "target": "cucire",
+    "source": "to sew"
+  },
+  {
+    "target": "divertire",
+    "source": "to amuse/entertain"
+  },
+  {
+    "target": "dormire",
+    "source": "to sleep"
+  },
+  {
+    "target": "fuggire",
+    "source": "to escape, flee"
+  },
+  {
+    "target": "inghiottire",
+    "source": "to swallow"
+  },
+  {
+    "target": "mentire",
+    "source": "to lie"
+  },
+  {
+    "target": "nutrire",
+    "source": "to feed"
+  },
+  {
+    "target": "offrire",
+    "source": "to offer"
+  },
+  {
+    "target": "partire",
+    "source": "to leave/depart"
+  },
+  {
+    "target": "riaprire",
+    "source": "to reopen"
+  },
+  {
+    "target": "riempire",
+    "source": "to fill"
+  },
+  {
+    "target": "scoprire",
+    "source": "to discover, to uncover"
+  },
+  {
+    "target": "seguire",
+    "source": "to follow"
+  },
+  {
+    "target": "sentire",
+    "source": "to hear/feel"
+  },
+  {
+    "target": "servire",
+    "source": "to serve"
+  },
+  {
+    "target": "soffrire",
+    "source": "to suffer"
+  },
+  {
+    "target": "tossire",
+    "source": "to cough"
+  },
+  {
+    "target": "vestire",
+    "source": "to dress, to wear"
+  }
+]

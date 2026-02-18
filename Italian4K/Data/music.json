@@ -1,0 +1,215 @@
+[
+  {
+    "target": "la musica",
+    "source": "music"
+  },
+  {
+    "target": "musicale",
+    "source": "musical"
+  },
+  {
+    "target": "musicalmente",
+    "source": "musically"
+  },
+  {
+    "target": "la musicalità",
+    "source": "musicality"
+  },
+  {
+    "target": "il battito",
+    "source": "beat"
+  },
+  {
+    "target": "il movimento",
+    "source": "movement"
+  },
+  {
+    "target": "il ritmo",
+    "source": "rhythm"
+  },
+  {
+    "target": "una canzone",
+    "source": "song"
+  },
+  {
+    "target": "la musica ambientale",
+    "source": "ambient music"
+  },
+  {
+    "target": "la musica di sottofondo",
+    "source": "background music"
+  },
+  {
+    "target": "la musichetta",
+    "source": "light/background music"
+  },
+  {
+    "target": "il blues",
+    "source": "blues"
+  },
+  {
+    "target": "la musica classica",
+    "source": "classical music"
+  },
+  {
+    "target": "la musica country",
+    "source": "country"
+  },
+  {
+    "target": "la musica elettronica",
+    "source": "electronic music"
+  },
+  {
+    "target": "la musica folk",
+    "source": "folk"
+  },
+  {
+    "target": "l’hip hop",
+    "source": "hip hop"
+  },
+  {
+    "target": "la musica house",
+    "source": "house music"
+  },
+  {
+    "target": "la musica da ascensore",
+    "source": "Muzak"
+  },
+  {
+    "target": "la musica pop",
+    "source": "pop"
+  },
+  {
+    "target": "il rap",
+    "source": "rap"
+  },
+  {
+    "target": "il rock",
+    "source": "rock"
+  },
+  {
+    "target": "il soul",
+    "source": "soul"
+  },
+  {
+    "target": "il/la musicista",
+    "source": "musician"
+  },
+  {
+    "target": "la cantante di riserva",
+    "source": "backup singer"
+  },
+  {
+    "target": "il compositore, la compositrice",
+    "source": "composer"
+  },
+  {
+    "target": "il direttore / la direttrice d’orchestra",
+    "source": "conductor"
+  },
+  {
+    "target": "il/la batterista",
+    "source": "drummer"
+  },
+  {
+    "target": "il/la chitarrista",
+    "source": "guitarist"
+  },
+  {
+    "target": "il/la rapper",
+    "source": "rapper"
+  },
+  {
+    "target": "il/la cantante",
+    "source": "singer"
+  },
+  {
+    "target": "il cantautore, la cantautrice",
+    "source": "singer-songwriter"
+  },
+  {
+    "target": "strumenti a fiato di ottone",
+    "source": "brass instruments"
+  },
+  {
+    "target": "la tastiera",
+    "source": "keyboard"
+  },
+  {
+    "target": "strumenti a percussione",
+    "source": "percussion instruments"
+  },
+  {
+    "target": "strumenti ad ancia",
+    "source": "reed instruments"
+  },
+  {
+    "target": "strumenti a corda",
+    "source": "string instruments"
+  },
+  {
+    "target": "strumenti a fiato",
+    "source": "wind instruments"
+  },
+  {
+    "target": "comporre",
+    "source": "to compose"
+  },
+  {
+    "target": "ascoltare la musica",
+    "source": "to listen to music"
+  },
+  {
+    "target": "ascoltare la radio",
+    "source": "to listen to the radio"
+  },
+  {
+    "target": "eseguire",
+    "source": "to perform"
+  },
+  {
+    "target": "suonare uno strumento",
+    "source": "to play an instrument"
+  },
+  {
+    "target": "esercitarsi",
+    "source": "to practice"
+  },
+  {
+    "target": "leggere la musica",
+    "source": "to read music"
+  },
+  {
+    "target": "cantare",
+    "source": "to sing"
+  },
+  {
+    "target": "scrivere musica",
+    "source": "to write music"
+  }
+,
+  {
+    "target": "il pianoforte",
+    "source": "piano"
+  },
+  {
+    "target": "la chitarra",
+    "source": "guitar"
+  },
+  {
+    "target": "la batteria",
+    "source": "drum kit"
+  },
+  {
+    "target": "il violino",
+    "source": "violin"
+  },
+  {
+    "target": "il pianista",
+    "source": "pianist"
+  },
+  {
+    "target": "il violinista",
+    "source": "violinist"
+  }
+]

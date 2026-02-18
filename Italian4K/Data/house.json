@@ -1,0 +1,481 @@
+[
+  {
+    "target": "Camera da letto / Stanza",
+    "source": "Bedroom"
+  },
+  {
+    "target": "Armadio",
+    "source": "Wardrobe"
+  },
+  {
+    "target": "Comò",
+    "source": "Chest of drawers"
+  },
+  {
+    "target": "Cassetto",
+    "source": "Drawer"
+  },
+  {
+    "target": "Specchio",
+    "source": "Mirror"
+  },
+  {
+    "target": "Poltrona",
+    "source": "Armchair"
+  },
+  {
+    "target": "Letto matrimoniale",
+    "source": "Double bed"
+  },
+  {
+    "target": "Letto",
+    "source": "Bed"
+  },
+  {
+    "target": "Letto a castello",
+    "source": "Bunk bed"
+  },
+  {
+    "target": "Culla",
+    "source": "Cot"
+  },
+  {
+    "target": "Materasso",
+    "source": "Mattress"
+  },
+  {
+    "target": "Lenzuola",
+    "source": "Sheets"
+  },
+  {
+    "target": "Coperta",
+    "source": "Blanket"
+  },
+  {
+    "target": "Copriletto",
+    "source": "Bedspread"
+  },
+  {
+    "target": "Trapunta",
+    "source": "Quilt"
+  },
+  {
+    "target": "Cuscino",
+    "source": "Pillow"
+  },
+  {
+    "target": "Federa",
+    "source": "Pillowcase"
+  },
+  {
+    "target": "Tappetino scendiletto",
+    "source": "Bedside rug"
+  },
+  {
+    "target": "Comodino",
+    "source": "Bedside table"
+  },
+  {
+    "target": "Abat-jour / Lampada",
+    "source": "Lamp"
+  },
+  {
+    "target": "Sveglia",
+    "source": "Alarm clock"
+  },
+  {
+    "target": "Telefono",
+    "source": "Telephone"
+  },
+  {
+    "target": "Scrittoio / Scrivania",
+    "source": "Desk"
+  },
+  {
+    "target": "Sedia",
+    "source": "Chair"
+  },
+  {
+    "target": "Scaffalatura",
+    "source": "Shelves"
+  },
+  {
+    "target": "Tappeto",
+    "source": "Rug / Mat"
+  },
+  {
+    "target": "Tenda",
+    "source": "Curtain"
+  },
+  {
+    "target": "Balcone",
+    "source": "Balcony"
+  },
+  {
+    "target": "Finestra",
+    "source": "Window"
+  },
+  {
+    "target": "Bagno",
+    "source": "Bathroom"
+  },
+  {
+    "target": "Doccia",
+    "source": "Shower"
+  },
+  {
+    "target": "Vasca da bagno",
+    "source": "Bath"
+  },
+  {
+    "target": "Accappatoio",
+    "source": "Bathrobe"
+  },
+  {
+    "target": "Shampoo",
+    "source": "Shampoo"
+  },
+  {
+    "target": "Bagnoschiuma",
+    "source": "Shower gel"
+  },
+  {
+    "target": "Sali da bagno",
+    "source": "Bath salts"
+  },
+  {
+    "target": "Spugna",
+    "source": "Sponge"
+  },
+  {
+    "target": "Tappetino",
+    "source": "Bathmat"
+  },
+  {
+    "target": "Lavandino",
+    "source": "Washbasin"
+  },
+  {
+    "target": "Rubinetto",
+    "source": "Tap"
+  },
+  {
+    "target": "Sapone",
+    "source": "Soap"
+  },
+  {
+    "target": "Portasapone",
+    "source": "Soap dish"
+  },
+  {
+    "target": "Asciugamano",
+    "source": "Towel"
+  },
+  {
+    "target": "Spazzolino da denti",
+    "source": "Toothbrush"
+  },
+  {
+    "target": "Dentifricio",
+    "source": "Toothpaste"
+  },
+  {
+    "target": "Specchio",
+    "source": "Mirror"
+  },
+  {
+    "target": "Armadietto",
+    "source": "Cabinet"
+  },
+  {
+    "target": "Pettine",
+    "source": "Comb"
+  },
+  {
+    "target": "Spazzola",
+    "source": "Brush"
+  },
+  {
+    "target": "Asciugacapelli",
+    "source": "Hair dryer"
+  },
+  {
+    "target": "Pennello da barba",
+    "source": "Shaving brush"
+  },
+  {
+    "target": "Rasoio",
+    "source": "Razor"
+  },
+  {
+    "target": "Profumo",
+    "source": "Perfume"
+  },
+  {
+    "target": "Rossetto",
+    "source": "Lipstick"
+  },
+  {
+    "target": "Cipria",
+    "source": "Face powder"
+  },
+  {
+    "target": "Ombretto",
+    "source": "Eyeshadow"
+  },
+  {
+    "target": "WC",
+    "source": "Toilet"
+  },
+  {
+    "target": "Carta igienica",
+    "source": "Toilet paper"
+  },
+  {
+    "target": "Bidè",
+    "source": "Bidet"
+  },
+  {
+    "target": "Scaldabagno",
+    "source": "Water heater"
+  },
+  {
+    "target": "Pesa persone",
+    "source": "Bathroom scales"
+  },
+  // removed duplicate living room block
+  {
+    "target": "Soggiorno",
+    "source": "Living room"
+  },
+  {
+    "target": "Parquet",
+    "source": "Parquet floor"
+  },
+  {
+    "target": "Divano",
+    "source": "Sofa / Couch"
+  },
+  {
+    "target": "Cuscino",
+    "source": "Cushion"
+  },
+  {
+    "target": "Poltrona",
+    "source": "Armchair"
+  },
+  {
+    "target": "Tavolino",
+    "source": "Coffee table"
+  },
+  {
+    "target": "Posacenere",
+    "source": "Ashtray"
+  },
+  {
+    "target": "Lampada",
+    "source": "Light / Lamp"
+  },
+  {
+    "target": "Mobile bar",
+    "source": "Cocktail cabinet"
+  },
+  {
+    "target": "Ripiano",
+    "source": "Shelf"
+  },
+  {
+    "target": "Impianto stereo",
+    "source": "Stereo"
+  },
+  {
+    "target": "Televisore",
+    "source": "Television"
+  },
+  {
+    "target": "Quadro",
+    "source": "Picture"
+  },
+  {
+    "target": "Orologio",
+    "source": "Clock"
+  },
+  {
+    "target": "Pianta",
+    "source": "Plant"
+  },
+  {
+    "target": "Vaso di fiori",
+    "source": "Vase"
+  },
+  // removed duplicate Specchio before Vetrina
+  {
+    "target": "Vetrina",
+    "source": "Glass-fronted cupboard"
+  },
+  {
+    "target": "Libreria",
+    "source": "Bookcase"
+  },
+  {
+    "target": "Libri",
+    "source": "Books"
+  },
+  {
+    "target": "Camino",
+    "source": "Fireplace"
+  },
+  {
+    "target": "Tende",
+    "source": "Curtains"
+  },
+  {
+    "target": "Scrivania",
+    "source": "Desk"
+  },
+  {
+    "target": "Sedia",
+    "source": "Chair"
+  },
+  {
+    "target": "Attaccapanni",
+    "source": "Coat stand / Coat rack"
+  },
+  {
+    "target": "Portaombrelli",
+    "source": "Umbrella stand"
+  },
+  {
+    "target": "Termosifone",
+    "source": "Radiator"
+  },
+  {
+    "target": "Casa",
+    "source": "House"
+  },
+  {
+    "target": "Palazzo",
+    "source": "Block of flats"
+  },
+  {
+    "target": "Appartamento",
+    "source": "Flat/apartment"
+  },
+  {
+    "target": "Attico",
+    "source": "Penthouse"
+  },
+  {
+    "target": "Villa",
+    "source": "Villa"
+  },
+  {
+    "target": "Unifamiliare",
+    "source": "Detached house"
+  },
+  {
+    "target": "Bifamiliare",
+    "source": "Semi-detached house"
+  },
+  {
+    "target": "Capanna",
+    "source": "Cabin"
+  },
+  {
+    "target": "Grattacielo",
+    "source": "Skyscraper"
+  },
+  {
+    "target": "Piano terra",
+    "source": "Ground floor"
+  },
+  {
+    "target": "Mansarda",
+    "source": "Loft"
+  },
+  {
+    "target": "Cantina",
+    "source": "Basement"
+  },
+  {
+    "target": "Scala/e",
+    "source": "Stairs"
+  },
+  {
+    "target": "Ascensore",
+    "source": "Elevator/lift"
+  },
+  {
+    "target": "Giardino",
+    "source": "Garden"
+  },
+  {
+    "target": "Cortile",
+    "source": "Courtyard"
+  },
+  {
+    "target": "Garage",
+    "source": "Garage"
+  },
+  {
+    "target": "Cancello",
+    "source": "Gate"
+  },
+  {
+    "target": "Citofono",
+    "source": "Intercom"
+  },
+  {
+    "target": "Campanello",
+    "source": "Doorbell"
+  },
+  {
+    "target": "Portone",
+    "source": "Front door"
+  },
+  {
+    "target": "Finestra",
+    "source": "Window"
+  },
+  {
+    "target": "Balcone",
+    "source": "Balcony"
+  },
+  {
+    "target": "Porta",
+    "source": "Door"
+  },
+  {
+    "target": "Veranda",
+    "source": "Veranda"
+  },
+  // removed final duplicate Stanza / Camera da letto
+  {
+    "target": "Cucina",
+    "source": "Kitchen"
+  },
+  {
+    "target": "Bagno",
+    "source": "Bathroom"
+  },
+  {
+    "target": "Soggiorno",
+    "source": "Living room"
+  },
+  {
+    "target": "Frigorifero",
+    "source": "Refrigerator"
+  },
+  {
+    "target": "Forno",
+    "source": "Oven"
+  },
+  {
+    "target": "Lavatrice",
+    "source": "Washing machine"
+  },
+  {
+    "target": "Lavastoviglie",
+    "source": "Dishwasher"
+  }
+]

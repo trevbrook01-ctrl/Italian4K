@@ -1,0 +1,255 @@
+[
+  {
+    "target": "la macchina / l’automobile",
+    "source": "car"
+  },
+  {
+    "target": "l’aereo",
+    "source": "airplane"
+  },
+  {
+    "target": "il treno",
+    "source": "train"
+  },
+  {
+    "target": "l’autobus / il pullman",
+    "source": "bus"
+  },
+  {
+    "target": "la bicicletta",
+    "source": "bike"
+  },
+  {
+    "target": "la moto",
+    "source": "motorbike"
+  },
+  {
+    "target": "la nave",
+    "source": "ship"
+  },
+  {
+    "target": "il triciclo",
+    "source": "tricycle"
+  },
+  {
+    "target": "il quadriciclo",
+    "source": "quadricycle"
+  },
+  {
+    "target": "il camion / l’autocarro",
+    "source": "truck / lorry"
+  },
+  {
+    "target": "il furgone",
+    "source": "van"
+  },
+  {
+    "target": "il monopattino",
+    "source": "kick scooter"
+  },
+  {
+    "target": "l’elicottero",
+    "source": "helicopter"
+  },
+  {
+    "target": "la metropolitana",
+    "source": "metro"
+  },
+  {
+    "target": "il tram",
+    "source": "tram"
+  },
+  {
+    "target": "il sommergibile",
+    "source": "submarine"
+  },
+  {
+    "target": "la barca",
+    "source": "boat"
+  },
+  {
+    "target": "la mongolfiera",
+    "source": "hot air balloon"
+  },
+  {
+    "target": "l’astronave",
+    "source": "spaceship"
+  },
+  {
+    "target": "guidare",
+    "source": "to drive"
+  },
+  {
+    "target": "accelerare",
+    "source": "to accelerate"
+  },
+  {
+    "target": "frenare",
+    "source": "to brake"
+  },
+  {
+    "target": "fermarsi",
+    "source": "to stop"
+  },
+  {
+    "target": "partire",
+    "source": "to set off"
+  },
+  {
+    "target": "rallentare",
+    "source": "to slow down"
+  },
+  {
+    "target": "decollare",
+    "source": "to take off"
+  },
+  {
+    "target": "atterrare",
+    "source": "to land"
+  },
+  {
+    "target": "imbarcare",
+    "source": "to board (ship/plane)"
+  },
+  {
+    "target": "pedalare",
+    "source": "to pedal / ride a bike"
+  },
+  {
+    "target": "la biglietteria",
+    "source": "ticket office"
+  },
+  {
+    "target": "il biglietto",
+    "source": "ticket"
+  },
+  {
+    "target": "la fermata d’autobus",
+    "source": "bus stop"
+  },
+  {
+    "target": "il sedile",
+    "source": "seat"
+  },
+  {
+    "target": "il volante",
+    "source": "steering wheel"
+  },
+  {
+    "target": "il cruscotto",
+    "source": "dashboard"
+  },
+  {
+    "target": "lo sportello",
+    "source": "door"
+  },
+  {
+    "target": "la sicura",
+    "source": "safety lock"
+  },
+  {
+    "target": "il finestrino",
+    "source": "window"
+  },
+  {
+    "target": "lo specchietto",
+    "source": "rear-view mirror"
+  },
+  {
+    "target": "i fari",
+    "source": "headlights"
+  },
+  {
+    "target": "le frecce",
+    "source": "indicators / turn signals"
+  },
+  {
+    "target": "l’autoradio",
+    "source": "car stereo"
+  },
+  {
+    "target": "la cintura di sicurezza",
+    "source": "seatbelt"
+  },
+  {
+    "target": "la maniglia",
+    "source": "handle"
+  },
+  {
+    "target": "la marcia",
+    "source": "gear"
+  },
+  {
+    "target": "l’antifurto",
+    "source": "burglar alarm"
+  },
+  {
+    "target": "il motore",
+    "source": "engine"
+  },
+  {
+    "target": "la benzina",
+    "source": "petrol"
+  },
+  {
+    "target": "il freno",
+    "source": "brake"
+  },
+  {
+    "target": "l’acceleratore",
+    "source": "accelerator"
+  },
+  {
+    "target": "la frizione",
+    "source": "clutch"
+  },
+  {
+    "target": "la velocità",
+    "source": "speed"
+  },
+  {
+    "target": "la ruota",
+    "source": "wheel"
+  },
+  {
+    "target": "la foratura",
+    "source": "puncture"
+  },
+  {
+    "target": "la ruota di scorta",
+    "source": "spare wheel"
+  },
+  {
+    "target": "la via / la strada",
+    "source": "street"
+  },
+  {
+    "target": "l’autostrada",
+    "source": "motorway"
+  },
+  {
+    "target": "il semaforo",
+    "source": "traffic lights"
+  },
+  {
+    "target": "la striscia pedonale",
+    "source": "zebra crossing"
+  }
+,
+{
+  "target": "il taxi",
+  "source": "taxi"
+},
+{
+  "target": "il traghetto",
+  "source": "ferry"
+},
+{
+  "target": "l’aeroporto",
+  "source": "airport"
+},
+{
+  "target": "la stazione",
+  "source": "station"
+}
+]

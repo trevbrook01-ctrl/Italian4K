@@ -1,0 +1,198 @@
+[
+  {
+    "target": "un impiegato / un’impiegata",
+    "source": "employee"
+  },
+  {
+    "target": "un dirigente / una dirigente",
+    "source": "manager"
+  },
+  {
+    "target": "un receptionist",
+    "source": "receptionist"
+  },
+  {
+    "target": "un segretario / una segretaria",
+    "source": "secretary"
+  },
+  {
+    "target": "un raccoglitore",
+    "source": "binder"
+  },
+  {
+    "target": "un libro",
+    "source": "book"
+  },
+  {
+    "target": "una valigetta",
+    "source": "briefcase"
+  },
+  {
+    "target": "la calcolatrice",
+    "source": "calculator"
+  },
+  {
+    "target": "un cellulare",
+    "source": "cell phone"
+  },
+  {
+    "target": "un computer",
+    "source": "computer"
+  },
+  {
+    "target": "un portatile",
+    "source": "laptop"
+  },
+  {
+    "target": "un tablet",
+    "source": "tablet"
+  },
+  {
+    "target": "una scrivania",
+    "source": "desk"
+  },
+  {
+    "target": "gli auricolari",
+    "source": "earbuds"
+  },
+  {
+    "target": "una e-mail",
+    "source": "email"
+  },
+  {
+    "target": "una gomma da cancellare",
+    "source": "eraser"
+  },
+  {
+    "target": "un fax",
+    "source": "fax machine"
+  },
+  {
+    "target": "una cartella",
+    "source": "file folder"
+  },
+  {
+    "target": "uno schedario",
+    "source": "filing cabinet"
+  },
+  {
+    "target": "delle cuffie",
+    "source": "headphones"
+  },
+  {
+    "target": "un evidenziatore",
+    "source": "highlighter"
+  },
+  {
+    "target": "posta in arrivo",
+    "source": "inbox"
+  },
+  {
+    "target": "una riunione",
+    "source": "meeting"
+  },
+  {
+    "target": "un microfono",
+    "source": "microphone"
+  },
+  {
+    "target": "un monitor",
+    "source": "monitor"
+  },
+  {
+    "target": "un mouse",
+    "source": "mouse"
+  },
+  {
+    "target": "un ufficio",
+    "source": "office"
+  },
+  {
+    "target": "posta in uscita",
+    "source": "outbox"
+  },
+  {
+    "target": "la carta",
+    "source": "paper"
+  },
+  {
+    "target": "un pezzo di carta",
+    "source": "piece of paper"
+  },
+  {
+    "target": "una graffetta",
+    "source": "paper clip"
+  },
+  {
+    "target": "una penna",
+    "source": "pen"
+  },
+  {
+    "target": "una matita",
+    "source": "pencil"
+  },
+  {
+    "target": "uno schermo",
+    "source": "screen"
+  },
+  {
+    "target": "gli altoparlanti",
+    "source": "speakers"
+  },
+  {
+    "target": "un punto metallico",
+    "source": "staple"
+  },
+  {
+    "target": "una pinzatrice",
+    "source": "stapler"
+  },
+  {
+    "target": "un telefono",
+    "source": "telephone"
+  },
+  {
+    "target": "una videochiamata",
+    "source": "video call"
+  },
+  {
+    "target": "assistere",
+    "source": "to attend"
+  },
+  {
+    "target": "calcolare",
+    "source": "to calculate"
+  },
+  {
+    "target": "chiamare",
+    "source": "to call"
+  },
+  {
+    "target": "leggere",
+    "source": "to read"
+  },
+  {
+    "target": "digitare",
+    "source": "to type"
+  },
+  {
+    "target": "lavorare",
+    "source": "to work"
+  },
+  {
+    "target": "scrivere",
+    "source": "to write"
+  },
+  {
+    "target": "una stampante",
+    "source": "printer"
+  },
+  {
+    "target": "una fotocopiatrice",
+    "source": "photocopier"
+  },
+  {
+    "target": "una tastiera",
+    "source": "keyboard"
+  }
+]

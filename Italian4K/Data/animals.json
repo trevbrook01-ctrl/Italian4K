@@ -1,0 +1,670 @@
+[
+  {
+    "target": "Il parrocchetto",
+    "source": "Budgerigar"
+  },
+  {
+    "target": "Il canarino",
+    "source": "Canary"
+  },
+  {
+    "target": "Il gatto",
+    "source": "Cat"
+  },
+  {
+    "target": "Il cincillà",
+    "source": "Chinchilla"
+  },
+  {
+    "target": "Il cane",
+    "source": "Dog"
+  },
+  {
+    "target": "Il furetto",
+    "source": "Ferret"
+  },
+  {
+    "target": "Il pesce",
+    "source": "Fish"
+  },
+  {
+    "target": "Il gerbillo",
+    "source": "Gerbil"
+  },
+  {
+    "target": "Il pesce rosso",
+    "source": "Goldfish"
+  },
+  {
+    "target": "Il porcellino d'India",
+    "source": "Guinea pig"
+  },
+  {
+    "target": "Il criceto",
+    "source": "Hamster"
+  },
+  {
+    "target": "Il granchio eremita",
+    "source": "Hermit crab"
+  },
+  {
+    "target": "L'iguana",
+    "source": "Iguana"
+  },
+  {
+    "target": "La lucertola",
+    "source": "Lizard"
+  },
+  {
+    "target": "Il topo",
+    "source": "Mouse"
+  },
+  {
+    "target": "Il maiale vietnamita",
+    "source": "Pot-bellied pig"
+  },
+  {
+    "target": "Il coniglio",
+    "source": "Rabbit"
+  },
+  {
+    "target": "Il ratto",
+    "source": "Rat"
+  },
+  {
+    "target": "Il serpente",
+    "source": "Snake"
+  },
+  {
+    "target": "La tartaruga",
+    "source": "Turtle"
+  },
+  {
+    "target": "Il toro",
+    "source": "Bull"
+  },
+  {
+    "target": "Il pollo",
+    "source": "Chicken"
+  },
+  {
+    "target": "La mucca",
+    "source": "Cow"
+  },
+  {
+    "target": "L'asino",
+    "source": "Donkey"
+  },
+  {
+    "target": "L'anatra",
+    "source": "Duck"
+  },
+  {
+    "target": "La capra",
+    "source": "Goat"
+  },
+  {
+    "target": "L'oca",
+    "source": "Goose"
+  },
+  {
+    "target": "La gallina",
+    "source": "Hen"
+  },
+  {
+    "target": "Il cavallo",
+    "source": "Horse"
+  },
+  {
+    "target": "Il maiale",
+    "source": "Pig"
+  },
+  {
+    "target": "La quaglia",
+    "source": "Quail"
+  },
+  {
+    "target": "Il gallo",
+    "source": "Rooster"
+  },
+  {
+    "target": "La pecora",
+    "source": "Sheep"
+  },
+  {
+    "target": "Il tacchino",
+    "source": "Turkey"
+  },
+  {
+    "target": "Il castoro",
+    "source": "Beaver"
+  },
+  {
+    "target": "La lince rossa",
+    "source": "Bobcat"
+  },
+  {
+    "target": "Il ghepardo",
+    "source": "Cheetah"
+  },
+  {
+    "target": "Lo scimpanzé",
+    "source": "Chimpanzee"
+  },
+  {
+    "target": "Il coyote",
+    "source": "Coyote"
+  },
+  {
+    "target": "L'elefante",
+    "source": "Elephant"
+  },
+  {
+    "target": "La volpe",
+    "source": "Fox"
+  },
+  {
+    "target": "La giraffa",
+    "source": "Giraffe"
+  },
+  {
+    "target": "Il gorilla",
+    "source": "Gorilla"
+  },
+  {
+    "target": "L'orso grizzly",
+    "source": "Grizzly bear"
+  },
+  {
+    "target": "Il riccio",
+    "source": "Hedgehog"
+  },
+  {
+    "target": "L'ippopotamo",
+    "source": "Hippopotamus"
+  },
+  {
+    "target": "La iena",
+    "source": "Hyena"
+  },
+  {
+    "target": "Il giaguaro",
+    "source": "Jaguar"
+  },
+  {
+    "target": "Il canguro",
+    "source": "Kangaroo"
+  },
+  {
+    "target": "Il koala",
+    "source": "Koala"
+  },
+  {
+    "target": "Il leopardo",
+    "source": "Leopard"
+  },
+  {
+    "target": "Il leone",
+    "source": "Lion"
+  },
+  {
+    "target": "La lince",
+    "source": "Lynx"
+  },
+  {
+    "target": "L'ocelot",
+    "source": "Ocelot"
+  },
+  {
+    "target": "La lontra",
+    "source": "Otter"
+  },
+  {
+    "target": "Il panda",
+    "source": "Panda"
+  },
+  {
+    "target": "L'orso polare",
+    "source": "Polar bear"
+  },
+  {
+    "target": "Il procione",
+    "source": "Raccoon"
+  },
+  {
+    "target": "Il panda rosso",
+    "source": "Red panda"
+  },
+  {
+    "target": "Il rinoceronte",
+    "source": "Rhino"
+  },
+  {
+    "target": "Il leopardo delle nevi",
+    "source": "Snow leopard"
+  },
+  {
+    "target": "Lo scoiattolo",
+    "source": "Squirrel"
+  },
+  {
+    "target": "La tigre",
+    "source": "Tiger"
+  },
+  {
+    "target": "Il lupo",
+    "source": "Wolf"
+  },
+  {
+    "target": "La zebra",
+    "source": "Zebra"
+  },
+  {
+    "target": "L'anemone di mare",
+    "source": "Anemone"
+  },
+  {
+    "target": "Il barracuda",
+    "source": "Barracuda"
+  },
+  {
+    "target": "Il pesce pagliaccio",
+    "source": "Clownfish"
+  },
+  {
+    "target": "Il corallo",
+    "source": "Coral"
+  },
+  {
+    "target": "Il granchio",
+    "source": "Crab"
+  },
+  {
+    "target": "Il delfino",
+    "source": "Dolphin"
+  },
+  {
+    "target": "L'anguilla",
+    "source": "Eel"
+  },
+  {
+    "target": "La passera di mare",
+    "source": "Flounder"
+  },
+  {
+    "target": "Lo squalo martello",
+    "source": "Hammerhead shark"
+  },
+  {
+    "target": "La medusa",
+    "source": "Jellyfish"
+  },
+  {
+    "target": "L'aragosta",
+    "source": "Lobster"
+  },
+  {
+    "target": "Il lamantino",
+    "source": "Manatee"
+  },
+  {
+    "target": "La manta",
+    "source": "Manta ray"
+  },
+  {
+    "target": "Il narvalo",
+    "source": "Narwhal"
+  },
+  {
+    "target": "Il polpo",
+    "source": "Octopus"
+  },
+  {
+    "target": "L'ostrica",
+    "source": "Oyster"
+  },
+  {
+    "target": "Il salmone",
+    "source": "Salmon"
+  },
+  {
+    "target": "La sardina",
+    "source": "Sardine"
+  },
+  {
+    "target": "Il cavalluccio marino",
+    "source": "Sea horse"
+  },
+  {
+    "target": "La lumaca di mare",
+    "source": "Sea snail"
+  },
+  {
+    "target": "La tartaruga marina",
+    "source": "Sea turtle"
+  },
+  {
+    "target": "L'echino marino",
+    "source": "Sea urchin"
+  },
+  {
+    "target": "La foca",
+    "source": "Seal"
+  },
+  {
+    "target": "Lo squalo",
+    "source": "Shark"
+  },
+  {
+    "target": "Il gambero",
+    "source": "Shrimp"
+  },
+  {
+    "target": "Il capodoglio",
+    "source": "Sperm whale"
+  },
+  {
+    "target": "Il calamaro",
+    "source": "Squid"
+  },
+  {
+    "target": "La stella marina",
+    "source": "Starfish"
+  },
+  {
+    "target": "Il pesce spada",
+    "source": "Swordfish"
+  },
+  {
+    "target": "Il tonno",
+    "source": "Tuna"
+  },
+  {
+    "target": "Il tricheco",
+    "source": "Walrus"
+  },
+  {
+    "target": "La balena",
+    "source": "Whale"
+  },
+  {
+    "target": "L'albatros",
+    "source": "Albatross"
+  },
+  {
+    "target": "L'aquila calva",
+    "source": "Bald eagle"
+  },
+  {
+    "target": "L'uccello",
+    "source": "Bird"
+  },
+  {
+    "target": "La ghiandaia",
+    "source": "Blue jay"
+  },
+  {
+    "target": "Il canarino",
+    "source": "Canary"
+  },
+  {
+    "target": "Il casuario",
+    "source": "Cassowary"
+  },
+  {
+    "target": "Il corvo",
+    "source": "Crow"
+  },
+  {
+    "target": "L'aquila",
+    "source": "Eagle"
+  },
+  {
+    "target": "L'emu",
+    "source": "Emu"
+  },
+  {
+    "target": "Il falcone",
+    "source": "Falcon"
+  },
+  {
+    "target": "Il fenicottero",
+    "source": "Flamingo"
+  },
+  {
+    "target": "L'oca",
+    "source": "Goose"
+  },
+  {
+    "target": "Il falco",
+    "source": "Hawk"
+  },
+  {
+    "target": "L'airone",
+    "source": "Heron"
+  },
+  {
+    "target": "Il calao",
+    "source": "Hornbill"
+  },
+  {
+    "target": "Il colibrì",
+    "source": "Hummingbird"
+  },
+  {
+    "target": "Il martin pescatore",
+    "source": "Kingfisher"
+  },
+  {
+    "target": "Il kiwi",
+    "source": "Kiwi"
+  },
+  {
+    "target": "Il dacelo",
+    "source": "Kookaburra"
+  },
+  {
+    "target": "La gazza",
+    "source": "Magpie"
+  },
+  {
+    "target": "Lo struzzo",
+    "source": "Ostrich"
+  },
+  {
+    "target": "Il gufo",
+    "source": "Owl"
+  },
+  {
+    "target": "Il pappagallo",
+    "source": "Parrot"
+  },
+  {
+    "target": "Il pavone",
+    "source": "Peacock"
+  },
+  {
+    "target": "Il pellicano",
+    "source": "Pelican"
+  },
+  {
+    "target": "Il falco pellegrino",
+    "source": "Peregrine falcon"
+  },
+  {
+    "target": "Il fagiano",
+    "source": "Pheasant"
+  },
+  {
+    "target": "Il piccione",
+    "source": "Pigeon"
+  },
+  {
+    "target": "Il corridore della strada",
+    "source": "Roadrunner"
+  },
+  {
+    "target": "Il pettirosso",
+    "source": "Robin"
+  },
+  {
+    "target": "Il gabbiano",
+    "source": "Seagull"
+  },
+  {
+    "target": "Il serpentario",
+    "source": "Secretary bird"
+  },
+  {
+    "target": "Il passero",
+    "source": "Sparrow"
+  },
+  {
+    "target": "La cicogna",
+    "source": "Stork"
+  },
+  {
+    "target": "La rondine",
+    "source": "Swallow"
+  },
+  {
+    "target": "Il tucano",
+    "source": "Toucan"
+  },
+  {
+    "target": "L'avvoltoio",
+    "source": "Vulture"
+  },
+  {
+    "target": "Il picchio",
+    "source": "Woodpecker"
+  },
+  {
+    "target": "L'alligatore",
+    "source": "Alligator"
+  },
+  {
+    "target": "L'anfibio",
+    "source": "Amphibian"
+  },
+  {
+    "target": "Il ceciliano",
+    "source": "Caecilian"
+  },
+  {
+    "target": "Il camaleonte",
+    "source": "Chameleon"
+  },
+  {
+    "target": "Il coccodrillo",
+    "source": "Crocodile"
+  },
+  {
+    "target": "La rana",
+    "source": "Frog"
+  },
+  {
+    "target": "Il geco",
+    "source": "Gecko"
+  },
+  {
+    "target": "Il drago di Komodo",
+    "source": "Komodo dragon"
+  },
+  {
+    "target": "Il tritone",
+    "source": "Newt"
+  },
+  {
+    "target": "Il rettile",
+    "source": "Reptile"
+  },
+  {
+    "target": "La salamandra",
+    "source": "Salamander"
+  },
+  {
+    "target": "Il rospo",
+    "source": "Toad"
+  },
+  {
+    "target": "La tartaruga",
+    "source": "Turtle"
+  },
+  {
+    "target": "La formica",
+    "source": "Ant"
+  },
+  {
+    "target": "La cimice",
+    "source": "Bedbug"
+  },
+  {
+    "target": "L'ape",
+    "source": "Bee"
+  },
+  {
+    "target": "Il coleottero",
+    "source": "Beetle"
+  },
+  {
+    "target": "La farfalla",
+    "source": "Butterfly"
+  },
+  {
+    "target": "Lo scarafaggio",
+    "source": "Cockroach"
+  },
+  {
+    "target": "Il grillo",
+    "source": "Cricket"
+  },
+  {
+    "target": "La libellula",
+    "source": "Dragonfly"
+  },
+  {
+    "target": "La lucciola",
+    "source": "Firefly"
+  },
+  {
+    "target": "La mosca",
+    "source": "Fly"
+  },
+  {
+    "target": "La cavalletta",
+    "source": "Grasshopper"
+  },
+  {
+    "target": "L'insetto",
+    "source": "Insect"
+  },
+  {
+    "target": "La coccinella",
+    "source": "Ladybug"
+  },
+  {
+    "target": "La zanzara",
+    "source": "Mosquito"
+  },
+  {
+    "target": "La falena",
+    "source": "Moth"
+  },
+  {
+    "target": "La mantide religiosa",
+    "source": "Praying mantis"
+  },
+  {
+    "target": "Lo scorpione",
+    "source": "Scorpion"
+  },
+  {
+    "target": "Il ragno",
+    "source": "Spider"
+  },
+  {
+    "target": "La termite",
+    "source": "Termite"
+  }
+]

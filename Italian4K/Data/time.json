@@ -1,0 +1,190 @@
+[
+  {
+    "target": "Giorno",
+    "source": "Day"
+  },
+  {
+    "target": "Settimana",
+    "source": "Week"
+  },
+  {
+    "target": "Lunedì",
+    "source": "Monday"
+  },
+  {
+    "target": "Martedì",
+    "source": "Tuesday"
+  },
+  {
+    "target": "Mercoledì",
+    "source": "Wednesday"
+  },
+  {
+    "target": "Giovedì",
+    "source": "Thursday"
+  },
+  {
+    "target": "Venerdì",
+    "source": "Friday"
+  },
+  {
+    "target": "Sabato",
+    "source": "Saturday"
+  },
+  {
+    "target": "Domenica",
+    "source": "Sunday"
+  },
+  {
+    "target": "Fine settimana / weekend",
+    "source": "Weekend"
+  },
+  {
+    "target": "Alba",
+    "source": "Dawn/Daybreak"
+  },
+  {
+    "target": "Mattina",
+    "source": "Morning"
+  },
+  {
+    "target": "Mezzogiorno",
+    "source": "Noon / midday"
+  },
+  {
+    "target": "Pomeriggio",
+    "source": "Afternoon"
+  },
+  {
+    "target": "Sera",
+    "source": "Evening"
+  },
+  {
+    "target": "Tramonto",
+    "source": "Sunset"
+  },
+  {
+    "target": "Notte",
+    "source": "Night"
+  },
+  {
+    "target": "Mezzanotte",
+    "source": "Midnight"
+  },
+  {
+    "target": "Mese",
+    "source": "Month"
+  },
+  {
+    "target": "Anno",
+    "source": "Year"
+  },
+  {
+    "target": "Gennaio",
+    "source": "January"
+  },
+  {
+    "target": "Febbraio",
+    "source": "February"
+  },
+  {
+    "target": "Marzo",
+    "source": "March"
+  },
+  {
+    "target": "Aprile",
+    "source": "April"
+  },
+  {
+    "target": "Maggio",
+    "source": "May"
+  },
+  {
+    "target": "Giugno",
+    "source": "June"
+  },
+  {
+    "target": "Luglio",
+    "source": "July"
+  },
+  {
+    "target": "Agosto",
+    "source": "August"
+  },
+  {
+    "target": "Settembre",
+    "source": "September"
+  },
+  {
+    "target": "Ottobre",
+    "source": "October"
+  },
+  {
+    "target": "Novembre",
+    "source": "November"
+  },
+  {
+    "target": "Dicembre",
+    "source": "December"
+  },
+  {
+    "target": "Anno bisestile",
+    "source": "Leap year"
+  },
+  {
+    "target": "Stagione",
+    "source": "Season"
+  },
+  {
+    "target": "Inverno",
+    "source": "Winter"
+  },
+  {
+    "target": "Primavera",
+    "source": "Spring"
+  },
+  {
+    "target": "Estate",
+    "source": "Summer"
+  },
+  {
+    "target": "Autunno",
+    "source": "Autumn/Fall"
+  },
+  {
+    "target": "Oggi",
+    "source": "Today"
+  },
+  {
+    "target": "Ieri",
+    "source": "Yesterday"
+  },
+  {
+    "target": "Domani",
+    "source": "Tomorrow"
+  },
+  {
+    "target": "Ora",
+    "source": "Hour / now"
+  },
+  {
+    "target": "Minuto",
+    "source": "Minute"
+  },
+  {
+    "target": "Secondo",
+    "source": "Second"
+  },
+  {
+    "target": "Passato",
+    "source": "Past"
+  },
+  {
+    "target": "Presente",
+    "source": "Present"
+  },
+  {
+    "target": "Futuro",
+    "source": "Future"
+  }
+]

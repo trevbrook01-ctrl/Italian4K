@@ -1,0 +1,146 @@
+[
+  {
+    "target": "Famiglia",
+    "source": "Family"
+  },
+  {
+    "target": "Parente",
+    "source": "Relative"
+  },
+  {
+    "target": "Parentela",
+    "source": "Kinship"
+  },
+  {
+    "target": "Papà/Padre",
+    "source": "Dad/Father"
+  },
+  {
+    "target": "Mamma/Madre",
+    "source": "Mum/Mother"
+  },
+  {
+    "target": "Genitori",
+    "source": "Parents"
+  },
+  {
+    "target": "Marito",
+    "source": "Husband"
+  },
+  {
+    "target": "Moglie",
+    "source": "Wife"
+  },
+  {
+    "target": "Figlio",
+    "source": "Son"
+  },
+  {
+    "target": "Figlia",
+    "source": "Daughter"
+  },
+  {
+    "target": "Figliastro",
+    "source": "Step-son"
+  },
+  {
+    "target": "Figliastra",
+    "source": "Step-daughter"
+  },
+  {
+    "target": "Fratello",
+    "source": "Brother"
+  },
+  {
+    "target": "Sorella",
+    "source": "Sister"
+  },
+  {
+    "target": "Cugino",
+    "source": "Cousin"
+  },
+  {
+    "target": "Cugina",
+    "source": "Cousin"
+  },
+  {
+    "target": "Zio",
+    "source": "Uncle"
+  },
+  {
+    "target": "Zia",
+    "source": "Aunt"
+  },
+  {
+    "target": "Nipote",
+    "source": "Nephew/Niece"
+  },
+  {
+    "target": "Nonno",
+    "source": "Grandfather"
+  },
+  {
+    "target": "Nonna",
+    "source": "Grandmother"
+  },
+  {
+    "target": "Bisnonno",
+    "source": "Great-grandfather"
+  },
+  {
+    "target": "Bisnonna",
+    "source": "Great-grandmother"
+  },
+  {
+    "target": "Cognato",
+    "source": "Brother-in-law"
+  },
+  {
+    "target": "Cognata",
+    "source": "Sister-in-law"
+  },
+  {
+    "target": "Suocero",
+    "source": "Father-in-law"
+  },
+  {
+    "target": "Suocera",
+    "source": "Mother-in-law"
+  },
+  {
+    "target": "Genero",
+    "source": "Son-in-law"
+  },
+  {
+    "target": "Nuora",
+    "source": "Daughter-in-law"
+  },
+  {
+    "target": "Fidanzato",
+    "source": "Boyfriend"
+  },
+  {
+    "target": "Fidanzata",
+    "source": "Girlfriend"
+  },
+  {
+    "target": "Sposo",
+    "source": "Groom"
+  },
+  {
+    "target": "Sposa",
+    "source": "Bride"
+  },
+  {
+    "target": "Gemello",
+    "source": "Twin (male)"
+  },
+  {
+    "target": "Gemella",
+    "source": "Twin (female)"
+  },
+  {
+    "target": "Pronipote",
+    "source": "Great-grandchild"
+  }
+]

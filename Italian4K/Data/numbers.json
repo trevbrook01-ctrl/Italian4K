@@ -1,0 +1,495 @@
+[
+  { "target": "zero", "source": "0" },
+  {
+    "target": "uno",
+    "source": "1"
+  },
+  {
+    "target": "due",
+    "source": "2"
+  },
+  {
+    "target": "tre",
+    "source": "3"
+  },
+  {
+    "target": "quattro",
+    "source": "4"
+  },
+  {
+    "target": "cinque",
+    "source": "5"
+  },
+  {
+    "target": "sei",
+    "source": "6"
+  },
+  {
+    "target": "sette",
+    "source": "7"
+  },
+  {
+    "target": "otto",
+    "source": "8"
+  },
+  {
+    "target": "nove",
+    "source": "9"
+  },
+  {
+    "target": "dieci",
+    "source": "10"
+  },
+  {
+    "target": "undici",
+    "source": "11"
+  },
+  {
+    "target": "dodici",
+    "source": "12"
+  },
+  {
+    "target": "tredici",
+    "source": "13"
+  },
+  {
+    "target": "quattordici",
+    "source": "14"
+  },
+  {
+    "target": "quindici",
+    "source": "15"
+  },
+  {
+    "target": "sedici",
+    "source": "16"
+  },
+  {
+    "target": "diciassette",
+    "source": "17"
+  },
+  {
+    "target": "diciotto",
+    "source": "18"
+  },
+  {
+    "target": "diciannove",
+    "source": "19"
+  },
+  {
+    "target": "venti",
+    "source": "20"
+  },
+  {
+    "target": "ventuno",
+    "source": "21"
+  },
+  {
+    "target": "ventidue",
+    "source": "22"
+  },
+  {
+    "target": "ventitré",
+    "source": "23"
+  },
+  {
+    "target": "ventiquattro",
+    "source": "24"
+  },
+  {
+    "target": "venticinque",
+    "source": "25"
+  },
+  {
+    "target": "ventisei",
+    "source": "26"
+  },
+  {
+    "target": "ventisette",
+    "source": "27"
+  },
+  {
+    "target": "ventotto",
+    "source": "28"
+  },
+  {
+    "target": "ventinove",
+    "source": "29"
+  },
+  {
+    "target": "trenta",
+    "source": "30"
+  },
+  {
+    "target": "trentuno",
+    "source": "31"
+  },
+  {
+    "target": "trentadue",
+    "source": "32"
+  },
+  {
+    "target": "trentatré",
+    "source": "33"
+  },
+  {
+    "target": "trentaquattro",
+    "source": "34"
+  },
+  {
+    "target": "trentacinque",
+    "source": "35"
+  },
+  {
+    "target": "trentasei",
+    "source": "36"
+  },
+  {
+    "target": "trentasette",
+    "source": "37"
+  },
+  {
+    "target": "trentotto",
+    "source": "38"
+  },
+  {
+    "target": "trentanove",
+    "source": "39"
+  },
+  {
+    "target": "quaranta",
+    "source": "40"
+  },
+  {
+    "target": "quarantuno",
+    "source": "41"
+  },
+  {
+    "target": "quarantadue",
+    "source": "42"
+  },
+  {
+    "target": "quarantatré",
+    "source": "43"
+  },
+  {
+    "target": "quarantaquattro",
+    "source": "44"
+  },
+  {
+    "target": "quarantacinque",
+    "source": "45"
+  },
+  {
+    "target": "quarantasei",
+    "source": "46"
+  },
+  {
+    "target": "quarantasette",
+    "source": "47"
+  },
+  {
+    "target": "quarantotto",
+    "source": "48"
+  },
+  {
+    "target": "quarantanove",
+    "source": "49"
+  },
+  {
+    "target": "cinquanta",
+    "source": "50"
+  },
+  {
+    "target": "cinquantuno",
+    "source": "51"
+  },
+  {
+    "target": "cinquantadue",
+    "source": "52"
+  },
+  {
+    "target": "cinquantatré",
+    "source": "53"
+  },
+  {
+    "target": "cinquantaquattro",
+    "source": "54"
+  },
+  {
+    "target": "cinquantacinque",
+    "source": "55"
+  },
+  {
+    "target": "cinquantasei",
+    "source": "56"
+  },
+  {
+    "target": "cinquantasette",
+    "source": "57"
+  },
+  {
+    "target": "cinquantotto",
+    "source": "58"
+  },
+  {
+    "target": "cinquantanove",
+    "source": "59"
+  },
+  {
+    "target": "sessanta",
+    "source": "60"
+  },
+  {
+    "target": "sessantuno",
+    "source": "61"
+  },
+  {
+    "target": "sessantadue",
+    "source": "62"
+  },
+  {
+    "target": "sessantatré",
+    "source": "63"
+  },
+  {
+    "target": "sessantaquattro",
+    "source": "64"
+  },
+  {
+    "target": "sessantacinque",
+    "source": "65"
+  },
+  {
+    "target": "sessantasei",
+    "source": "66"
+  },
+  {
+    "target": "sessantasette",
+    "source": "67"
+  },
+  {
+    "target": "sessantotto",
+    "source": "68"
+  },
+  {
+    "target": "sessantanove",
+    "source": "69"
+  },
+  {
+    "target": "settanta",
+    "source": "70"
+  },
+  {
+    "target": "settantuno",
+    "source": "71"
+  },
+  {
+    "target": "settantadue",
+    "source": "72"
+  },
+  {
+    "target": "settantatré",
+    "source": "73"
+  },
+  {
+    "target": "settantaquattro",
+    "source": "74"
+  },
+  {
+    "target": "settantacinque",
+    "source": "75"
+  },
+  {
+    "target": "settantasei",
+    "source": "76"
+  },
+  {
+    "target": "settantasette",
+    "source": "77"
+  },
+  {
+    "target": "settantotto",
+    "source": "78"
+  },
+  {
+    "target": "settantanove",
+    "source": "79"
+  },
+  {
+    "target": "ottanta",
+    "source": "80"
+  },
+  {
+    "target": "ottantuno",
+    "source": "81"
+  },
+  {
+    "target": "ottantadue",
+    "source": "82"
+  },
+  {
+    "target": "ottantatré",
+    "source": "83"
+  },
+  {
+    "target": "ottantaquattro",
+    "source": "84"
+  },
+  {
+    "target": "ottantacinque",
+    "source": "85"
+  },
+  {
+    "target": "ottantasei",
+    "source": "86"
+  },
+  {
+    "target": "ottantasette",
+    "source": "87"
+  },
+  {
+    "target": "ottantotto",
+    "source": "88"
+  },
+  {
+    "target": "ottantanove",
+    "source": "89"
+  },
+  {
+    "target": "novanta",
+    "source": "90"
+  },
+  {
+    "target": "novantuno",
+    "source": "91"
+  },
+  {
+    "target": "novantadue",
+    "source": "92"
+  },
+  {
+    "target": "novantatré",
+    "source": "93"
+  },
+  {
+    "target": "novantaquattro",
+    "source": "94"
+  },
+  {
+    "target": "novantacinque",
+    "source": "95"
+  },
+  {
+    "target": "novantasei",
+    "source": "96"
+  },
+  {
+    "target": "novantasette",
+    "source": "97"
+  },
+  {
+    "target": "novantotto",
+    "source": "98"
+  },
+  {
+    "target": "novantanove",
+    "source": "99"
+  },
+  {
+    "target": "cento",
+    "source": "100"
+  },
+  {
+    "target": "mille",
+    "source": "1000"
+  },
+  {
+    "target": "milione",
+    "source": "million"
+  },
+  {
+    "target": "miliardo",
+    "source": "billion"
+  },
+  {
+    "target": "primo",
+    "source": "first"
+  },
+  {
+    "target": "secondo",
+    "source": "second"
+  },
+  {
+    "target": "terzo",
+    "source": "third"
+  },
+  {
+    "target": "quarto",
+    "source": "fourth"
+  },
+  {
+    "target": "quinto",
+    "source": "fifth"
+  },
+  {
+    "target": "sesto",
+    "source": "sixth"
+  },
+  {
+    "target": "settimo",
+    "source": "seventh"
+  },
+  {
+    "target": "ottavo",
+    "source": "eighth"
+  },
+  {
+    "target": "nono",
+    "source": "ninth"
+  },
+  {
+    "target": "decimo",
+    "source": "tenth"
+  },
+  {
+    "target": "prima",
+    "source": "first (feminine)"
+  },
+  {
+    "target": "seconda",
+    "source": "second (feminine)"
+  },
+  {
+    "target": "terza",
+    "source": "third (feminine)"
+  },
+  {
+    "target": "quarta",
+    "source": "fourth (feminine)"
+  },
+  {
+    "target": "quinta",
+    "source": "fifth (feminine)"
+  },
+  {
+    "target": "sesta",
+    "source": "sixth (feminine)"
+  },
+  {
+    "target": "settima",
+    "source": "seventh (feminine)"
+  },
+  {
+    "target": "ottava",
+    "source": "eighth (feminine)"
+  },
+  {
+    "target": "nona",
+    "source": "ninth (feminine)"
+  },
+  {
+    "target": "decima",
+    "source": "tenth (feminine)"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "target": "giallo",
+    "source": "yellow"
+  },
+  {
+    "target": "arancione",
+    "source": "orange"
+  },
+  {
+    "target": "rosso",
+    "source": "red"
+  },
+  {
+    "target": "rosa",
+    "source": "pink"
+  },
+  {
+    "target": "viola",
+    "source": "purple"
+  },
+  {
+    "target": "blu",
+    "source": "blue"
+  },
+  {
+    "target": "verde",
+    "source": "green"
+  },
+  {
+    "target": "nero",
+    "source": "black"
+  },
+  {
+    "target": "marrone",
+    "source": "brown"
+  },
+  {
+    "target": "grigio",
+    "source": "grey"
+  },
+  {
+    "target": "bianco",
+    "source": "white"
+  },
+  {
+    "target": "azzurro",
+    "source": "light blue"
+  },
+  {
+    "target": "blu chiaro",
+    "source": "light blue"
+  },
+  {
+    "target": "verde scuro",
+    "source": "dark green"
+  }
+,
+{
+  "target": "beige",
+  "source": "beige"
+},
+{
+  "target": "turchese",
+  "source": "turquoise"
+},
+{
+  "target": "oro",
+  "source": "gold"
+},
+{
+  "target": "argento",
+  "source": "silver"
+},
+{
+  "target": "crema",
+  "source": "cream"
+},
+{
+  "target": "celeste",
+  "source": "sky blue"
+}
+]

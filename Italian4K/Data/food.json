@@ -1,0 +1,475 @@
+[
+  {
+    "target": "Cibo",
+    "source": "Food"
+  },
+  {
+    "target": "Pasta",
+    "source": "Pasta"
+  },
+  {
+    "target": "Spaghetti",
+    "source": "Spaghetti"
+  },
+  {
+    "target": "Salsa / sugo",
+    "source": "Sauce"
+  },
+  {
+    "target": "Riso",
+    "source": "Rice"
+  },
+  {
+    "target": "Zuppa",
+    "source": "Soup"
+  },
+  {
+    "target": "Carne",
+    "source": "Meat"
+  },
+  {
+    "target": "Pollo",
+    "source": "Chicken"
+  },
+  {
+    "target": "Pesce",
+    "source": "Fish"
+  },
+  {
+    "target": "Tonno",
+    "source": "Tuna"
+  },
+  {
+    "target": "Uova",
+    "source": "Eggs"
+  },
+  {
+    "target": "Pane",
+    "source": "Bread"
+  },
+  {
+    "target": "Salame",
+    "source": "Salami"
+  },
+  {
+    "target": "Prosciutto",
+    "source": "Ham"
+  },
+  {
+    "target": "Formaggio",
+    "source": "Cheese"
+  },
+  {
+    "target": "Pancetta",
+    "source": "Bacon"
+  },
+  {
+    "target": "Salsiccia",
+    "source": "Sausage"
+  },
+  {
+    "target": "Mozzarella",
+    "source": "Mozzarella"
+  },
+  {
+    "target": "Verdura",
+    "source": "Vegetable"
+  },
+  {
+    "target": "Insalata",
+    "source": "Salad"
+  },
+  {
+    "target": "Frutta",
+    "source": "Fruit"
+  },
+  {
+    "target": "Frittata",
+    "source": "Omelette"
+  },
+  {
+    "target": "Sformato",
+    "source": "Pie"
+  },
+  {
+    "target": "Biscotto",
+    "source": "Biscuit"
+  },
+  {
+    "target": "Burro",
+    "source": "Butter"
+  },
+  {
+    "target": "Marmellata",
+    "source": "Marmalade"
+  },
+  {
+    "target": "Farina",
+    "source": "Flour"
+  },
+  {
+    "target": "Fette biscottate",
+    "source": "Toast"
+  },
+  {
+    "target": "Cereali",
+    "source": "Cereals"
+  },
+  {
+    "target": "Dolci",
+    "source": "Dessert"
+  },
+  {
+    "target": "Zucchero",
+    "source": "Sugar"
+  },
+  {
+    "target": "Sale",
+    "source": "Salt"
+  },
+  {
+    "target": "Tavola",
+    "source": "Table"
+  },
+  {
+    "target": "Pasto",
+    "source": "Meal"
+  },
+  {
+    "target": "Colazione",
+    "source": "Breakfast"
+  },
+  {
+    "target": "Pranzo",
+    "source": "Lunch"
+  },
+  {
+    "target": "Merenda",
+    "source": "Snack"
+  },
+  {
+    "target": "Cena",
+    "source": "Dinner"
+  },
+  {
+    "target": "Spuntino",
+    "source": "Snack"
+  },
+  {
+    "target": "Tovaglia",
+    "source": "Tablecloth"
+  },
+  {
+    "target": "Tovagliolo",
+    "source": "Napkin"
+  },
+  {
+    "target": "Posata",
+    "source": "Cutlery"
+  },
+  {
+    "target": "Forchetta",
+    "source": "Fork"
+  },
+  {
+    "target": "Coltello",
+    "source": "Knife"
+  },
+  {
+    "target": "Cucchiaio",
+    "source": "Spoon"
+  },
+  {
+    "target": "Cucchiaino",
+    "source": "Teaspoon"
+  },
+  {
+    "target": "Bicchiere",
+    "source": "Glass"
+  },
+  {
+    "target": "Tazza",
+    "source": "Cup"
+  },
+  {
+    "target": "Bibita / Bevanda",
+    "source": "Drink"
+  },
+  {
+    "target": "Caffè",
+    "source": "Coffee"
+  },
+  {
+    "target": "Succo di frutta",
+    "source": "Fruit juice"
+  },
+  {
+    "target": "Vino",
+    "source": "Wine"
+  },
+  {
+    "target": "Acqua",
+    "source": "Water"
+  },
+  {
+    "target": "Acqua naturale",
+    "source": "Still water"
+  },
+  {
+    "target": "Acqua gassata",
+    "source": "Fizzy water"
+  },
+  {
+    "target": "Birra",
+    "source": "Beer"
+  },
+  {
+    "target": "Tè",
+    "source": "Tea"
+  },
+  {
+    "target": "Latte",
+    "source": "Milk"
+  },
+  {
+    "target": "Spremuta di arancia",
+    "source": "Orange juice"
+  },
+  {
+    "target": "Gassosa",
+    "source": "Soda"
+  },
+  {
+    "target": "Aranciata",
+    "source": "Orange soda"
+  },
+  {
+    "target": "Liquore",
+    "source": "Liqueur"
+  },
+  {
+    "target": "Condimento",
+    "source": "Seasoning / Flavouring"
+  },
+  {
+    "target": "Spezia",
+    "source": "Spice"
+  },
+  {
+    "target": "Olio",
+    "source": "Oil"
+  },
+  {
+    "target": "Pepe",
+    "source": "Pepper"
+  },
+  {
+    "target": "Aceto",
+    "source": "Vinegar"
+  },
+  {
+    "target": "Origano",
+    "source": "Oregano"
+  },
+  {
+    "target": "Basilico",
+    "source": "Basil"
+  },
+  {
+    "target": "Rosmarino",
+    "source": "Rosemary"
+  },
+  {
+    "target": "Noce moscata",
+    "source": "Nutmeg"
+  },
+  {
+    "target": "Cannella",
+    "source": "Cinnamon"
+  },
+  {
+    "target": "Cannella in stecche",
+    "source": "Cinnamon sticks"
+  },
+  {
+    "target": "Zafferano",
+    "source": "Saffron"
+  },
+  {
+    "target": "Paprika",
+    "source": "Paprika"
+  },
+  {
+    "target": "Cumino",
+    "source": "Cumin"
+  },
+  {
+    "target": "Mela",
+    "source": "Apple"
+  },
+  {
+    "target": "Pera",
+    "source": "Pear"
+  },
+  {
+    "target": "Banana",
+    "source": "Banana"
+  },
+  {
+    "target": "Arancia",
+    "source": "Orange"
+  },
+  {
+    "target": "Mandarino",
+    "source": "Mandarin"
+  },
+  {
+    "target": "Pompelmo",
+    "source": "Grapefruit"
+  },
+  {
+    "target": "Pesca",
+    "source": "Peach"
+  },
+  {
+    "target": "Albicocca",
+    "source": "Apricot"
+  },
+  {
+    "target": "Fragola",
+    "source": "Strawberry"
+  },
+  {
+    "target": "Ciliegia",
+    "source": "Cherry"
+  },
+  {
+    "target": "Amarena",
+    "source": "Black cherry"
+  },
+  {
+    "target": "Mirtillo",
+    "source": "Blueberry"
+  },
+  {
+    "target": "Lampone",
+    "source": "Raspberry"
+  },
+  {
+    "target": "Kiwi",
+    "source": "Kiwi"
+  },
+  {
+    "target": "Ananas",
+    "source": "Pineapple"
+  },
+  {
+    "target": "Limone",
+    "source": "Lemon"
+  },
+  {
+    "target": "Nespola",
+    "source": "Medlar"
+  },
+  {
+    "target": "Noce di cocco",
+    "source": "Coconut"
+  },
+  {
+    "target": "Uva",
+    "source": "Grape"
+  },
+  {
+    "target": "Melagrana",
+    "source": "Pomegranate"
+  },
+  {
+    "target": "Anguria",
+    "source": "Watermelon"
+  },
+  {
+    "target": "Melone",
+    "source": "Melon"
+  },
+  {
+    "target": "Fico",
+    "source": "Fig"
+  },
+  {
+    "target": "Lattuga",
+    "source": "Lettuce"
+  },
+  {
+    "target": "Carota",
+    "source": "Carrot"
+  },
+  {
+    "target": "Pomodoro",
+    "source": "Tomato"
+  },
+  {
+    "target": "Radicchio",
+    "source": "Chicory"
+  },
+  {
+    "target": "Sedano",
+    "source": "Celery"
+  },
+  {
+    "target": "Melanzana",
+    "source": "Aubergine"
+  },
+  {
+    "target": "Zucca",
+    "source": "Pumpkin"
+  },
+  {
+    "target": "Zucchina",
+    "source": "Courgette"
+  },
+  {
+    "target": "Ravanello",
+    "source": "Radish"
+  },
+  {
+    "target": "Cipolla",
+    "source": "Onion"
+  },
+  {
+    "target": "Aglio",
+    "source": "Garlic"
+  },
+  {
+    "target": "Prezzemolo",
+    "source": "Parsley"
+  },
+  {
+    "target": "Patata",
+    "source": "Potato"
+  },
+  {
+    "target": "Spinaci",
+    "source": "Spinach"
+  },
+  {
+    "target": "Carciofo",
+    "source": "Artichoke"
+  }
+,
+{
+  "target": "Pizza",
+  "source": "Pizza"
+},
+{
+  "target": "Gelato",
+  "source": "Ice cream"
+},
+{
+  "target": "Yogurt",
+  "source": "Yogurt"
+},
+{
+  "target": "Olio d'oliva",
+  "source": "Olive oil"
+}
+]

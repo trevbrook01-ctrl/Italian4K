@@ -1,0 +1,146 @@
+[
+  {
+    "target": "testa",
+    "source": "head"
+  },
+  {
+    "target": "torace",
+    "source": "chest"
+  },
+  {
+    "target": "schiena",
+    "source": "back"
+  },
+  {
+    "target": "petto",
+    "source": "chest"
+  },
+  {
+    "target": "addome",
+    "source": "abdomen"
+  },
+  {
+    "target": "pancia",
+    "source": "belly"
+  },
+  {
+    "target": "capelli",
+    "source": "hair"
+  },
+  {
+    "target": "viso",
+    "source": "face"
+  },
+  {
+    "target": "occhio (pl. occhi)",
+    "source": "eye"
+  },
+  {
+    "target": "orecchio (pl. orecchie/orecchi)",
+    "source": "ear"
+  },
+  {
+    "target": "naso",
+    "source": "nose"
+  },
+  {
+    "target": "bocca",
+    "source": "mouth"
+  },
+  {
+    "target": "guancia",
+    "source": "cheek"
+  },
+  {
+    "target": "mento",
+    "source": "chin"
+  },
+  {
+    "target": "fronte",
+    "source": "forehead"
+  },
+  {
+    "target": "sopracciglio (pl. sopracciglia)",
+    "source": "eyebrow"
+  },
+  {
+    "target": "collo",
+    "source": "neck"
+  },
+  {
+    "target": "spalla",
+    "source": "shoulder"
+  },
+  {
+    "target": "ascella",
+    "source": "armpit"
+  },
+  {
+    "target": "braccio (pl. braccia)",
+    "source": "arm"
+  },
+  {
+    "target": "avambraccio",
+    "source": "forearm"
+  },
+  {
+    "target": "gomito",
+    "source": "elbow"
+  },
+  {
+    "target": "mano",
+    "source": "hand"
+  },
+  {
+    "target": "dito (pl. dita)",
+    "source": "finger"
+  },
+  {
+    "target": "ginocchio (pl. ginocchia)",
+    "source": "knee"
+  },
+  {
+    "target": "gamba",
+    "source": "leg"
+  },
+  {
+    "target": "coscia",
+    "source": "thigh"
+  },
+  {
+    "target": "piede",
+    "source": "foot"
+  },
+  {
+    "target": "caviglia",
+    "source": "ankle"
+  },
+  {
+    "target": "labbra",
+    "source": "lips"
+  },
+  {
+    "target": "dente (pl. denti)",
+    "source": "tooth"
+  },
+  {
+    "target": "lingua",
+    "source": "tongue"
+  },
+  {
+    "target": "polso",
+    "source": "wrist"
+  },
+  {
+    "target": "palmo",
+    "source": "palm"
+  },
+  {
+    "target": "unghia",
+    "source": "nail"
+  },
+  {
+    "target": "tacco",
+    "source": "heel"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "target": "noioso/noiosa",
+    "source": "boring"
+  },
+  {
+    "target": "coraggioso/coraggiosa",
+    "source": "brave"
+  },
+  {
+    "target": "chiacchierone/chiacchierona",
+    "source": "chatty"
+  },
+  {
+    "target": "codardo/codarda",
+    "source": "cowardly"
+  },
+  {
+    "target": "astuto/astuta",
+    "source": "cunning"
+  },
+  {
+    "target": "amichevole/amichevole",
+    "source": "friendly"
+  },
+  {
+    "target": "divertente/divertente",
+    "source": "funny"
+  },
+  {
+    "target": "laborioso/laboriosa",
+    "source": "hard-working"
+  },
+  {
+    "target": "impaziente/impaziente",
+    "source": "impatient"
+  },
+  {
+    "target": "interessante/interessante",
+    "source": "interesting"
+  },
+  {
+    "target": "gentile/gentile",
+    "source": "kind"
+  },
+  {
+    "target": "pigro/pigra",
+    "source": "lazy"
+  },
+  {
+    "target": "meschino/meschina",
+    "source": "mean"
+  },
+  {
+    "target": "ingenuo/ingenua",
+    "source": "naive"
+  },
+  {
+    "target": "simpatico/simpatica",
+    "source": "nice"
+  },
+  {
+    "target": "aperto di mente/aperta di mente",
+    "source": "open-minded"
+  },
+  {
+    "target": "estroverso/estroversa",
+    "source": "outgoing"
+  },
+  {
+    "target": "paziente/paziente",
+    "source": "patient"
+  },
+  {
+    "target": "patriottico/patriottica",
+    "source": "patriotic"
+  },
+  {
+    "target": "giocoso/giocosa",
+    "source": "playful"
+  },
+  {
+    "target": "eccentrico/eccentrica",
+    "source": "quirky"
+  },
+  {
+    "target": "serio/seria",
+    "source": "serious"
+  },
+  {
+    "target": "timido/timida",
+    "source": "shy"
+  },
+  {
+    "target": "intelligente/intelligente",
+    "source": "smart"
+  },
+  {
+    "target": "socievole/socievole",
+    "source": "sociable"
+  },
+  {
+    "target": "snob/snob",
+    "source": "snobbish"
+  },
+  {
+    "target": "sofisticato/sofisticata",
+    "source": "sophisticated"
+  },
+  {
+    "target": "studioso/studiosa",
+    "source": "studious"
+  },
+  {
+    "target": "stupido/stupida",
+    "source": "stupid"
+  },
+  {
+    "target": "scortese/scortese",
+    "source": "rude"
+  },
+  {
+    "target": "beneducato/beneducata",
+    "source": "well-behaved"
+  }
+,
+{
+  "target": "onesto/onesta",
+  "source": "honest"
+},
+{
+  "target": "creativo/creativa",
+  "source": "creative"
+},
+{
+  "target": "affidabile/affidabile",
+  "source": "reliable"
+},
+{
+  "target": "ambizioso/ambiziosa",
+  "source": "ambitious"
+},
+{
+  "target": "tranquillo/tranquilla",
+  "source": "calm"
+}
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "target": "Abbigliamento",
+    "source": "Clothing"
+  },
+  {
+    "target": "Indumento / capo",
+    "source": "Garment / clothing item"
+  },
+  {
+    "target": "Negozio di abbigliamento",
+    "source": "Clothing shop"
+  },
+  {
+    "target": "Taglia",
+    "source": "Size"
+  },
+  {
+    "target": "Abito da sera",
+    "source": "Evening dress"
+  },
+  {
+    "target": "Camicia",
+    "source": "Shirt"
+  },
+  {
+    "target": "Camicia di seta",
+    "source": "Silk shirt"
+  },
+  {
+    "target": "Canottiera",
+    "source": "Vest / tank top"
+  },
+  {
+    "target": "Canottiera di cotone",
+    "source": "Cotton vest"
+  },
+  {
+    "target": "Cappotto",
+    "source": "Coat"
+  },
+  {
+    "target": "Giacca in pelle",
+    "source": "Leather jacket"
+  },
+  {
+    "target": "Giacca a vento",
+    "source": "Windbreaker"
+  },
+  {
+    "target": "Gonna",
+    "source": "Skirt"
+  },
+  {
+    "target": "Jeans",
+    "source": "Jeans"
+  },
+  {
+    "target": "Maglietta",
+    "source": "T-shirt"
+  },
+  {
+    "target": "Maglietta a strisce/righe",
+    "source": "Striped t-shirt"
+  },
+  {
+    "target": "Maglione",
+    "source": "Sweater"
+  },
+  {
+    "target": "Maglione di lana",
+    "source": "Woollen sweater"
+  },
+  {
+    "target": "Mutande",
+    "source": "Underwear"
+  },
+  {
+    "target": "Pantaloni",
+    "source": "Trousers"
+  },
+  {
+    "target": "Pantaloni a quadri",
+    "source": "Checked trousers"
+  },
+  {
+    "target": "Pantaloni in lino",
+    "source": "Linen trousers"
+  },
+  {
+    "target": "Tuta sportiva",
+    "source": "Tracksuit"
+  },
+  {
+    "target": "Scarpe",
+    "source": "Shoes"
+  },
+  {
+    "target": "Accessori",
+    "source": "Accessories"
+  },
+  {
+    "target": "Scarpe sportive",
+    "source": "Trainers"
+  },
+  {
+    "target": "Sandali",
+    "source": "Sandals"
+  },
+  {
+    "target": "Stivali",
+    "source": "Boots"
+  },
+  {
+    "target": "Ciabatte",
+    "source": "Slippers"
+  },
+  {
+    "target": "Cappello",
+    "source": "Hat"
+  },
+  {
+    "target": "Borsa",
+    "source": "Bag / handbag"
+  },
+  {
+    "target": "Cravatta",
+    "source": "Tie"
+  },
+  {
+    "target": "Zaino",
+    "source": "Backpack"
+  },
+  {
+    "target": "Sciarpa",
+    "source": "Scarf"
+  },
+  {
+    "target": "Occhiali",
+    "source": "Glasses"
+  },
+  {
+    "target": "Calze",
+    "source": "Socks"
+  },
+  {
+    "target": "Collant",
+    "source": "Tights"
+  },
+  {
+    "target": "Guanti",
+    "source": "Gloves"
+  },
+  {
+    "target": "Scialle",
+    "source": "Shawl"
+  },
+  {
+    "target": "Cintura",
+    "source": "Belt"
+  }
+,
+{
+  "target": "Felpa",
+  "source": "Sweatshirt"
+},
+{
+  "target": "Felpa con cappuccio",
+  "source": "Hoodie"
+},
+{
+  "target": "Pigiama",
+  "source": "Pyjamas"
+},
+{
+  "target": "Costume da bagno",
+  "source": "Swimsuit"
+},
+{
+  "target": "Camicetta",
+  "source": "Blouse"
+}
+]

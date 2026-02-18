@@ -1,0 +1,214 @@
+[
+  {
+    "target": "Tempo",
+    "source": "Weather"
+  },
+  {
+    "target": "Clima",
+    "source": "Climate"
+  },
+  {
+    "target": "Temperatura",
+    "source": "Temperature"
+  },
+  {
+    "target": "Vento",
+    "source": "Wind"
+  },
+  {
+    "target": "Sole",
+    "source": "Sun"
+  },
+  {
+    "target": "Pioggia",
+    "source": "Rain"
+  },
+  {
+    "target": "Neve",
+    "source": "Snow"
+  },
+  {
+    "target": "Nebbia",
+    "source": "Fog"
+  },
+  {
+    "target": "Foschia",
+    "source": "Mist"
+  },
+  {
+    "target": "Grandine",
+    "source": "Hail"
+  },
+  {
+    "target": "Ghiaccio / Gelo",
+    "source": "Ice"
+  },
+  {
+    "target": "Precipitazioni",
+    "source": "Precipitation"
+  },
+  {
+    "target": "Cielo sereno",
+    "source": "Clear sky"
+  },
+  {
+    "target": "Raggio di sole",
+    "source": "Sunbeam"
+  },
+  {
+    "target": "Nuvole",
+    "source": "Clouds"
+  },
+  {
+    "target": "Temporale",
+    "source": "Storm"
+  },
+  {
+    "target": "Fulmine / lampo",
+    "source": "Lightning"
+  },
+  {
+    "target": "Tuono",
+    "source": "Thunder"
+  },
+  {
+    "target": "Tromba d’aria",
+    "source": "Tornado"
+  },
+  {
+    "target": "Uragano",
+    "source": "Hurricane"
+  },
+  {
+    "target": "Afa",
+    "source": "Muggy"
+  },
+  {
+    "target": "Arcobaleno",
+    "source": "Rainbow"
+  },
+  {
+    "target": "Polare / Glaciale",
+    "source": "Polar / Glacial"
+  },
+  {
+    "target": "Tropicale",
+    "source": "Tropical"
+  },
+  {
+    "target": "Equatoriale",
+    "source": "Equatorial"
+  },
+  {
+    "target": "Continentale",
+    "source": "Continental"
+  },
+  {
+    "target": "Mediterraneo",
+    "source": "Mediterranean"
+  },
+  {
+    "target": "Oceanico",
+    "source": "Oceanic"
+  },
+  {
+    "target": "Arido / Asciutto / Desertico",
+    "source": "Arid / Dry / Desert"
+  },
+  {
+    "target": "Temperato",
+    "source": "Temperate"
+  },
+  {
+    "target": "Di montagna",
+    "source": "Mountain climate"
+  },
+  {
+    "target": "Freddo",
+    "source": "Cold"
+  },
+  {
+    "target": "Fresco",
+    "source": "Cool"
+  },
+  {
+    "target": "Gelido",
+    "source": "Freezing"
+  },
+  {
+    "target": "Caldo",
+    "source": "Hot"
+  },
+  {
+    "target": "Umido",
+    "source": "Humid"
+  },
+  {
+    "target": "Secco",
+    "source": "Dry"
+  },
+  {
+    "target": "Soleggiato",
+    "source": "Sunny"
+  },
+  {
+    "target": "Nuvoloso / Coperto",
+    "source": "Cloudy"
+  },
+  {
+    "target": "Sereno",
+    "source": "Clear"
+  },
+  {
+    "target": "Variabile",
+    "source": "Changeable"
+  },
+  {
+    "target": "Ventoso",
+    "source": "Windy"
+  },
+  {
+    "target": "Piovoso",
+    "source": "Rainy"
+  },
+  {
+    "target": "Afoso / Soffocante",
+    "source": "Muggy"
+  },
+  {
+    "target": "Mare calmo/piatto o mosso",
+    "source": "Calm sea / Rough sea"
+  },
+  {
+    "target": "Nevicare",
+    "source": "to snow"
+  },
+  {
+    "target": "Piovere",
+    "source": "to rain"
+  },
+  {
+    "target": "Piovigginare",
+    "source": "to drizzle"
+  },
+  {
+    "target": "Soffiare",
+    "source": "to blow"
+  },
+  {
+    "target": "Splendere / brillare",
+    "source": "to shine"
+  },
+  {
+    "target": "Grandinare",
+    "source": "to hail"
+  },
+  {
+    "target": "Gelare / Ghiacciare",
+    "source": "to freeze"
+  },
+  {
+    "target": "Umidità",
+    "source": "Humidity"
+  }
+]

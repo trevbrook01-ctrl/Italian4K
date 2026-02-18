@@ -1,0 +1,170 @@
+[
+  {
+    "target": "Professione / Mestiere",
+    "source": "Profession / Occupation"
+  },
+  {
+    "target": "Agricoltore",
+    "source": "Farmer"
+  },
+  {
+    "target": "Architetto",
+    "source": "Architect"
+  },
+  {
+    "target": "Attore",
+    "source": "Actor"
+  },
+  {
+    "target": "Autista",
+    "source": "Driver"
+  },
+  {
+    "target": "Barista",
+    "source": "Bartender / barista"
+  },
+  {
+    "target": "Cameriere / cameriera",
+    "source": "Waiter/waitress"
+  },
+  {
+    "target": "Casalinga",
+    "source": "Homemaker"
+  },
+  {
+    "target": "Commesso/a",
+    "source": "Shop assistant"
+  },
+  {
+    "target": "Cuoco/a",
+    "source": "Cook"
+  },
+  {
+    "target": "Disoccupato/a",
+    "source": "Unemployed"
+  },
+  {
+    "target": "Dottore / dottoressa",
+    "source": "Doctor"
+  },
+  {
+    "target": "Falegname",
+    "source": "Carpenter"
+  },
+  {
+    "target": "Farmacista",
+    "source": "Pharmacist"
+  },
+  {
+    "target": "Giornalista",
+    "source": "Journalist"
+  },
+  {
+    "target": "Impiegato/a",
+    "source": "Office worker / employee"
+  },
+  {
+    "target": "Infermiere/a",
+    "source": "Nurse"
+  },
+  {
+    "target": "Ingegnere",
+    "source": "Engineer"
+  },
+  {
+    "target": "Insegnante",
+    "source": "Teacher"
+  },
+  {
+    "target": "Meccanico",
+    "source": "Mechanic"
+  },
+  {
+    "target": "Medico",
+    "source": "Physician"
+  },
+  {
+    "target": "Muratore",
+    "source": "Bricklayer / builder"
+  },
+  {
+    "target": "Operaio/a",
+    "source": "Manual worker"
+  },
+  {
+    "target": "Pensionato/a",
+    "source": "Pensioner"
+  },
+  {
+    "target": "Professore / professoressa",
+    "source": "Professor"
+  },
+  {
+    "target": "Ragioniere/a",
+    "source": "Accountant"
+  },
+  {
+    "target": "Scrittore/scrittrice",
+    "source": "Writer"
+  },
+  {
+    "target": "Segretario/a",
+    "source": "Secretary"
+  },
+  {
+    "target": "Studente / studentessa",
+    "source": "Student"
+  },
+  {
+    "target": "Traduttore / traduttrice",
+    "source": "Translator"
+  },
+  {
+    "target": "Vigile del fuoco",
+    "source": "Firefighter"
+  },
+  {
+    "target": "Regista",
+    "source": "Director"
+  },
+  {
+    "target": "Poliziotto",
+    "source": "Police officer"
+  },
+  {
+    "target": "Cantante",
+    "source": "Singer"
+  },
+  {
+    "target": "Musicista",
+    "source": "Musician"
+  },
+  {
+    "target": "Idraulico",
+    "source": "Plumber"
+  },
+  {
+    "target": "Ballerino/a",
+    "source": "Dancer"
+  },
+  {
+    "target": "Avvocato",
+    "source": "Lawyer"
+  },
+  {
+    "target": "Dentista",
+    "source": "Dentist"
+  },
+  {
+    "target": "Psicologo/a",
+    "source": "Psychologist"
+  },
+  {
+    "target": "Programmatore / programmatrice",
+    "source": "Programmer / developer"
+  },
+  {
+    "target": "Elettricista",
+    "source": "Electrician"
+  }
+]
