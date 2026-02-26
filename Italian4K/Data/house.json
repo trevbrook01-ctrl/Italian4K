@@ -243,7 +243,6 @@
     "target": "Pesa persone",
     "source": "Bathroom scales"
   },
-  // removed duplicate living room block
   {
     "target": "Soggiorno",
     "source": "Living room"
@@ -308,7 +307,6 @@
     "target": "Vaso di fiori",
     "source": "Vase"
   },
-  // removed duplicate Specchio before Vetrina
   {
     "target": "Vetrina",
     "source": "Glass-fronted cupboard"
@@ -449,7 +447,6 @@
     "target": "Veranda",
     "source": "Veranda"
   },
-  // removed final duplicate Stanza / Camera da letto
   {
     "target": "Cucina",
     "source": "Kitchen"

@@ -48,6 +48,12 @@ struct PaywallView: View {
                 }
                 .font(.footnote)
                 .foregroundStyle(.secondary)
+                
+                Button("Not Now") {
+                    dismiss()
+                }
+                .font(.footnote)
+                .foregroundStyle(.secondary)
             }
             .task {
                 do {
@@ -67,4 +73,3 @@ struct PaywallView: View {
 #Preview {
     PaywallView()
 }
-

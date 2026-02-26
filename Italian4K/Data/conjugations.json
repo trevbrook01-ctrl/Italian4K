@@ -1,11 +1,3 @@
-//
-//  conjugations.swift
-//  Italian4K
-//
-//  Created by WARREN PETERS on 18/02/2026.
-//
-
-
 [
   { "target": "sono", "source": "I am / they are" },
   { "target": "sei", "source": "you are (singular informal)" },
@@ -258,7 +250,6 @@
   { "target": "beviamo", "source": "we drink" },
   { "target": "bevete", "source": "you drink (plural)" },
   { "target": "bevono", "source": "they drink" },
-
   { "target": "ordino", "source": "I order" },
   { "target": "ordini", "source": "you order" },
   { "target": "ordina", "source": "he/she orders" },
