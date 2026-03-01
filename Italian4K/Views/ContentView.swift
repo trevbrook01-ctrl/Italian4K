@@ -13,7 +13,9 @@ import StoreKit
 struct ContentView: View {
     
     @Environment(\.dismiss) private var dismiss
+    @Environment(\.colorScheme) private var colorScheme
     @StateObject private var viewModel: QuizViewModel
+    @AppStorage("audioEnabled") private var audioEnabled = true
 
     init(viewModel: QuizViewModel = QuizViewModel()) {
         _viewModel = StateObject(wrappedValue: viewModel)
@@ -22,7 +24,11 @@ struct ContentView: View {
     var body: some View {
         NavigationStack {
             ZStack {
-                AppTheme.backgroundGradient // themed background gradient
+                (colorScheme == .dark
+                 ? LinearGradient(colors: [Color.black, Color.gray.opacity(0.6)],
+                                  startPoint: .top,
+                                  endPoint: .bottom)
+                 : AppTheme.backgroundGradient)
                     .ignoresSafeArea()
 
                 VStack(spacing: 24) {
@@ -43,12 +49,30 @@ struct ContentView: View {
 
                         Text("Score: \(viewModel.score)")
                             .font(.title3.weight(.semibold))
-                            .foregroundStyle(.secondary)
+                            .foregroundStyle(colorScheme == .dark ? .white : .primary)
 
 
-                        Text(viewModel.promptText())
-                            .font(.largeTitle.weight(.bold))
-                            .padding(.bottom, 6)
+                        HStack(spacing: 12) {
+                            Text(viewModel.promptText())
+                                .font(.largeTitle.weight(.bold))
+                                .multilineTextAlignment(.leading)
+                                .fixedSize(horizontal: false, vertical: true)
+                                .foregroundStyle(colorScheme == .dark ? .white : .primary)
+
+                            Button {
+                                if audioEnabled {
+                                    SpeechManager.shared.speak(
+                                        viewModel.promptText(),
+                                        language: viewModel.direction == .sourceToTarget ? "en-US" : "it-IT"
+                                    )
+                                }
+                            } label: {
+                                Image(systemName: "speaker.wave.2.fill")
+                                    .font(.title2)
+                            }
+                            .buttonStyle(.plain)
+                        }
+                        .padding(.bottom, 6)
 
                         if viewModel.showFeedback {
                             Text(viewModel.color(for: viewModel.selectedAnswer!) == .green ? "Correct ✓" : "Incorrect — correct answer highlighted")
@@ -62,6 +86,12 @@ struct ContentView: View {
                                 let isCorrect = item.id == viewModel.currentItem?.id
                                 let isSelected = viewModel.selectedAnswer?.id == item.id
                                 Button {
+                                    if audioEnabled {
+                                        SpeechManager.shared.speak(
+                                            viewModel.optionText(for: item),
+                                            language: viewModel.direction == .sourceToTarget ? "it-IT" : "en-US"
+                                        )
+                                    }
                                     viewModel.selectAnswer(item)
 
                                     // Haptic feedback
@@ -76,6 +106,7 @@ struct ContentView: View {
                                             .lineLimit(nil)
                                             .multilineTextAlignment(.leading)
                                             .fixedSize(horizontal: false, vertical: true)
+                                            .foregroundStyle(.primary)
                                         Spacer()
 
                                         if viewModel.showFeedback &&
@@ -87,11 +118,19 @@ struct ContentView: View {
                                 }
                                 .buttonStyle(.borderedProminent)
                                 .frame(maxWidth: .infinity, alignment: .leading)
-                                .tint(viewModel.showFeedback && isCorrect ? Color.green : viewModel.color(for: item))
+                                .tint(
+                                    viewModel.showFeedback && isCorrect
+                                    ? Color.green
+                                    : (colorScheme == .dark
+                                        ? Color.white.opacity(0.15)
+                                        : viewModel.color(for: item))
+                                )
                                 .allowsHitTesting(viewModel.selectedAnswer == nil)
                                 .opacity(
                                     viewModel.selectedAnswer == nil ? 1 :
-                                    (isCorrect ? 1 : 0.25)
+                                    (isSelected ? 1 :
+                                        (isCorrect ? 1 : 0.25)
+                                    )
                                 )
                                 .fontWeight(viewModel.showFeedback && isCorrect ? .semibold : .regular)
                                 .overlay(
@@ -134,7 +173,17 @@ struct ContentView: View {
             .navigationTitle(viewModel.isFinished ? "Results" : (viewModel.currentCategoryTitle ?? "Quiz"))
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {
-                    Button("New Game") { dismiss() }
+                    HStack(spacing: 16) {
+                        Button {
+                            audioEnabled.toggle()
+                        } label: {
+                            Image(systemName: audioEnabled ? "speaker.wave.2.fill" : "speaker.slash.fill")
+                        }
+
+                        Button("New Game") {
+                            dismiss()
+                        }
+                    }
                 }
             }
         }

@@ -82,6 +82,13 @@ struct HomeView: View {
             .padding()
             }
             .navigationTitle("Italian 4K")
+            .toolbar {
+                ToolbarItem(placement: .topBarTrailing) {
+                    NavigationLink(destination: SettingsView()) {
+                        Image(systemName: "gearshape")
+                    }
+                }
+            }
             .sheet(isPresented: $showingCategories) {
                 CategoryView(
                     purchaseService: purchaseService,

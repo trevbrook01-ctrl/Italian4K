@@ -13,10 +13,13 @@ struct PaywallView: View {
     @State private var product: Product?
     
     @Environment(\.dismiss) private var dismiss
+    @Environment(\.colorScheme) private var colorScheme
     
     var body: some View {
         ZStack {
-            AppTheme.backgroundGradient
+            (colorScheme == .dark
+             ? AppTheme.backgroundGradientDark
+             : AppTheme.backgroundGradient)
                 .ignoresSafeArea()
             
             VStack(spacing: 28) {

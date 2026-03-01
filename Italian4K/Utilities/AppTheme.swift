@@ -36,4 +36,15 @@ enum AppTheme {
             endPoint: .bottom
         )
     }
+    
+    static var backgroundGradientDark: LinearGradient {
+        LinearGradient(
+            colors: [
+                Color.black,
+                flagRed.opacity(0.35)
+            ],
+            startPoint: .top,
+            endPoint: .bottom
+        )
+    }
 }
